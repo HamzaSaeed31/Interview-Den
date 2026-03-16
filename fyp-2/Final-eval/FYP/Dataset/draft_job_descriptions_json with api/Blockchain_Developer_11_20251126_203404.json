@@ -1,0 +1,32 @@
+{
+  "job_title": "Blockchain Developer",
+  "role_description": "Develop and lead the implementation of blockchain solutions, utilizing advanced skills in programming languages and technologies to create secure, scalable, and efficient blockchain applications",
+  "experience_required": {
+    "years_of_experience": "5+",
+    "level": "Senior"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Java",
+      "Python",
+      "Solidity",
+      "Rust",
+      "Ethereum",
+      "Hyperledger Fabric",
+      "Corda",
+      "Smart contract security audits",
+      "Gas optimization",
+      "Cryptography",
+      "Scalable DApps",
+      "Cross-chain",
+      "Cloud integration"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Mentoring",
+      "Project management"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

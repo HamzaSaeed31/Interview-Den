@@ -1,0 +1,21 @@
+{
+  "job_title": "Cloud Engineer",
+  "role_description": "A cloud engineer position for a fresher with 0-1 years of experience, requiring skills in cloud computing, networking, and Linux administration",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Cloud storage basics",
+      "Networking fundamentals",
+      "Docker",
+      "Terraform basics",
+      "Linux administration",
+      "Java basics"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

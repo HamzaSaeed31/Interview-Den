@@ -1,0 +1,42 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Dynamic Python Developer with a strong background in backend development and data analysis. Proficient in Python, with strong knowledge of libraries such as NumPy, Pandas, and Scikit-learn for data ma...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Python Developer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Python",
+    "Django",
+    "Flask",
+    "NumPy",
+    "Pandas",
+    "Scikit-learn"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

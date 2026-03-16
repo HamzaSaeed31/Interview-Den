@@ -1,0 +1,37 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Results-driven Backend Developer with expertise in designing and implementing scalable and efficient backend systems. Proficient in programming languages such as Python, Java, and Node.js, with experi...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Cloud Engineer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "General IT Skills"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

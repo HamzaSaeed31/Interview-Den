@@ -1,0 +1,36 @@
+{
+  "job_title": ".NET Developer",
+  "role_description": ".NET Developer position requiring expertise in C#, .NET Framework, ASP.NET",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C#",
+      ".NET Framework",
+      "ASP.NET",
+      "Razor",
+      "SQL Server",
+      "Git",
+      "NUnit basics"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in Razor page development",
+    "Learn version control processes",
+    "Perform debugging under supervision",
+    "Support data access layer coding",
+    "Contribute to testing efforts"
+  ],
+  "keywords": [
+    ".NET",
+    "C#",
+    "ASP.NET",
+    "Razor",
+    "SQL Server",
+    "Unit Testing"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "job_title": "AI Engineer - Experienced",
+  "role_description": "AI Engineer - Experienced position requiring expertise in Python, Java, C++",
+  "experience_required": {
+    "years_of_experience": "3 year",
+    "level": "Entry-Level"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "R",
+      "Classification",
+      "Regression",
+      "Clustering",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Scikit-learn",
+      "Neural Networks",
+      "OpenCV",
+      "NLTK",
+      "Pandas",
+      "NumPy",
+      "SQL",
+      "MongoDB"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Build simple AI models",
+    "Preprocess datasets",
+    "Implement basic ML pipelines",
+    "Work collaboratively on projects"
+  ],
+  "keywords": [
+    "AI",
+    "ML",
+    "Fresher",
+    "Entry-Level",
+    "Python",
+    "TensorFlow",
+    "PyTorch"
+  ]
+}

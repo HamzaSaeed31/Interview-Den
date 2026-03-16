@@ -1,0 +1,36 @@
+{
+  "job_title": "Backend Developer",
+  "role_description": "Experienced backend developer position requiring 5+ years of experience with a range of technical skills",
+  "experience_required": {
+    "years_of_experience": "5+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Node.js",
+      "Python",
+      "Java",
+      "Express.js",
+      "Django",
+      "Flask",
+      "Spring Boot",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "RESTful API",
+      "GraphQL",
+      "gRPC",
+      "Git",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "AWS",
+      "Azure",
+      "Agile"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

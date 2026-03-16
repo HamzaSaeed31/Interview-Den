@@ -1,0 +1,37 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Passionate Frontend Developer with a creative mindset and a keen eye for design. Proficient in HTML5, CSS3, and JavaScript, with experience in modern frameworks such as React.js and Vue.js. Skilled in...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Cloud Engineer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "General IT Skills"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

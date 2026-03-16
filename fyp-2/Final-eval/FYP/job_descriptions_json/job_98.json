@@ -1,0 +1,49 @@
+{
+  "job_title": "Fresher ML Engineer",
+  "role_description": "Fresher ML Engineer position requiring expertise in Python, C/C++, JavaScript advanced, Bash, PowerShell scripting, Network and application security expert",
+  "experience_required": {
+    "years_of_experience": "15+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python, C/C++, JavaScript advanced",
+      "Bash, PowerShell scripting",
+      "Network and application security expert",
+      "Linux and Windows OS expert",
+      "Penetration testing",
+      "Vulnerability assessment",
+      "Metasploit, Burp Suite, Nmap, SQLMap, Wireshark",
+      "Cryptography, SSL/TLS",
+      "Malware analysis",
+      "Reverse engineering",
+      "Compliance frameworks",
+      "Project management"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Analytical skills"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Manage and lead penetration testing projects",
+    "Conduct advanced security audits",
+    "Develop and implement security policies",
+    "Mentor and guide junior ethical hackers",
+    "Analyze malware and perform reverse engineering",
+    "Ensure organizational compliance with ethical and legal frameworks"
+  ],
+  "keywords": [
+    "Ethical Hacking",
+    "Penetration Testing",
+    "Network Security",
+    "Python",
+    "Linux",
+    "Windows Security",
+    "Metasploit",
+    "Burp Suite",
+    "Cryptography",
+    "Malware Analysis"
+  ]
+}

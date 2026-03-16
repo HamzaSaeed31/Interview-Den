@@ -1,0 +1,28 @@
+{
+  "job_title": "Backend Developer",
+  "role_description": "A backend developer position requiring experience with various programming languages and frameworks",
+  "experience_required": {
+    "years_of_experience": "9",
+    "level": "Not specified"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Node.js",
+      "Python",
+      "Java",
+      "Express.js",
+      "Django",
+      "Flask",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "RESTful API",
+      "Git",
+      "Agile"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

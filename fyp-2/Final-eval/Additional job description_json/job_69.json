@@ -1,0 +1,33 @@
+{
+  "job_title": "Data Analyst - Fresher",
+  "role_description": "Data Analyst - Fresher position requiring expertise in Splunk, QRadar, SIEM Tools",
+  "experience_required": {
+    "years_of_experience": "5",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Splunk",
+      "QRadar",
+      "SIEM Tools",
+      "Network Defense",
+      "Incident Response",
+      "Python Scripting"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Monitor SIEM alerts",
+    "Respond to incidents",
+    "Perform malware analysis",
+    "Maintain SOC dashboards"
+  ],
+  "keywords": [
+    "SIEM",
+    "Incident Response",
+    "SOC",
+    "Malware Analysis",
+    "Threat Hunting"
+  ]
+}

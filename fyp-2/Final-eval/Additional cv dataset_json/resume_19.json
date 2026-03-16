@@ -1,0 +1,42 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Seasoned Backend Developer with a focus on architecting and implementing scalable and efficient server-side solutions. With over 7 years of experience, I specialize in backend technologies such as Nod...",
+  "Experience": {
+    "Total Years": 7,
+    "Details": [
+      {
+        "Role": "Backend Developer",
+        "Company": "Various",
+        "Duration": "7+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Node.js",
+    "Express.js",
+    "Flask",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

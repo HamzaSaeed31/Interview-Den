@@ -1,0 +1,41 @@
+{
+  "job_title": "Game Developer",
+  "role_description": "Game Developer position requiring expertise in HTML, CSS, JavaScript",
+  "experience_required": {
+    "years_of_experience": "0",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Vue.js",
+      "Angular",
+      "Node.js",
+      "Flask",
+      "SQL",
+      "NoSQL",
+      "Git"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in frontend development with React or Vue.js",
+    "Develop backend services using Node.js or Flask",
+    "Manage SQL/NoSQL databases",
+    "Perform testing",
+    "Collaborate with Agile teams"
+  ],
+  "keywords": [
+    "Full Stack Developer",
+    "Entry-Level",
+    "Fresher",
+    "Frontend",
+    "Backend",
+    "Cloud Development",
+    "Agile"
+  ]
+}

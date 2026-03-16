@@ -1,0 +1,42 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Passionate Python Developer with a focus on building scalable and maintainable software solutions. Proficient in Python programming language and libraries such as TensorFlow and Keras for deep learnin...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Data Scientist",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Python",
+    "R",
+    "Machine Learning",
+    "Deep Learning",
+    "TensorFlow",
+    "SQL"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

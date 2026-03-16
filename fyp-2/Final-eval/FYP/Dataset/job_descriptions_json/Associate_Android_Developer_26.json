@@ -1,0 +1,51 @@
+{
+  "job_title": "Associate Android Developer",
+  "role_description": "Associate Android Developer position requiring expertise in C++, C# expert, JavaScript advanced, Python basics",
+  "experience_required": {
+    "years_of_experience": "7+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C++, C# expert",
+      "JavaScript advanced",
+      "Python basics",
+      "Unity, Unreal Engine expert",
+      "ARKit, ARCore, Vuforia",
+      "Advanced 3D graphics",
+      "UI/UX expert",
+      "Spatial computing",
+      "Gesture/motion tracking",
+      "Hardware integration",
+      "Performance optimization",
+      "Machine learning basics",
+      "Project management"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Collaboration"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Lead AR/VR development projects",
+    "Architect immersive and interactive applications",
+    "Optimize graphics performance and hardware integration",
+    "Oversee cross-platform deployment",
+    "Mentor teams and review code/designs",
+    "Collaborate with design and engineering teams",
+    "Manage timelines and deliverables"
+  ],
+  "keywords": [
+    "Unity",
+    "Unreal Engine",
+    "C#",
+    "ARKit",
+    "ARCore",
+    "3D Graphics",
+    "Spatial Computing",
+    "Performance Optimization",
+    "Cross-Platform",
+    "Machine Learning"
+  ]
+}

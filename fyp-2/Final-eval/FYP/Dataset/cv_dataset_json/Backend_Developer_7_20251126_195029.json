@@ -1,0 +1,37 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Enthusiastic Data Scientist with a focus on leveraging data to drive strategic decisions and business growth. With 4 years of experience, I specialize in using Python and R for statistical analysis, m...",
+  "Experience": {
+    "Total Years": 4,
+    "Details": [
+      {
+        "Role": "Backend Developer",
+        "Company": "Various",
+        "Duration": "4+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Python"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

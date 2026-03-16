@@ -1,0 +1,23 @@
+{
+  "job_title": "DevOps Engineer - Fresher",
+  "role_description": "Not specified",
+  "experience_required": {
+    "years_of_experience": "5+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "Hadoop",
+      "AWS EMR",
+      "Snowflake",
+      "Data Modeling",
+      "Airflow"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

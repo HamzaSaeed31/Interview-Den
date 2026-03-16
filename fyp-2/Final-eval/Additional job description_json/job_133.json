@@ -1,0 +1,40 @@
+{
+  "job_title": "Software Developer - Experienced",
+  "role_description": "Software Developer - Experienced position requiring expertise in Python, JavaScript, Git",
+  "experience_required": {
+    "years_of_experience": "0-2",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "JavaScript",
+      "Git",
+      "React",
+      "MySQL",
+      "Data Structures",
+      "Algorithms",
+      "VS Code",
+      "Jira"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Write clean and maintainable code in Python and JavaScript",
+    "Collaborate with senior engineers to implement features",
+    "Debug issues and participate in agile sprints",
+    "Contribute to unit testing and code documentation",
+    "Learn and apply modern development practices"
+  ],
+  "keywords": [
+    "Software Engineer",
+    "Python",
+    "JavaScript",
+    "React",
+    "MySQL",
+    "Agile",
+    "Unit Testing",
+    "OOP"
+  ]
+}

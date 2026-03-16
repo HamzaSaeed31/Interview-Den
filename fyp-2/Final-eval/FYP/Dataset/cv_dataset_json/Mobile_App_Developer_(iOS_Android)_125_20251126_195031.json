@@ -1,0 +1,41 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Innovative Mobile App Developer specializing in iOS and Android development. Proficient in Swift, Objective-C, Java, and Kotlin, with experience in frameworks such as SwiftUI, Android Jetpack, and Flu...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Mobile App Developer (iOS/Android)",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Swift",
+    "Objective-C",
+    "Kotlin",
+    "Java",
+    "Flutter"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

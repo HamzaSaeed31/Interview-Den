@@ -1,0 +1,48 @@
+{
+  "job_title": "Software Engineer - Experienced",
+  "role_description": "Software Engineer - Experienced position requiring expertise in Advanced Java, Advanced Python, C# advanced",
+  "experience_required": {
+    "years_of_experience": "4+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Advanced Java",
+      "Advanced Python",
+      "C# advanced",
+      "Selenium WebDriver",
+      "Cypress",
+      "TestNG",
+      "JMeter",
+      "Appium",
+      "API Testing advanced",
+      "CI/CD integration",
+      "Performance and load testing",
+      "Mentoring",
+      "Test automation strategy"
+    ],
+    "soft_skills": [
+      "Agile leadership",
+      "Cross-team collaboration"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Lead test automation strategy",
+    "Design and implement advanced test frameworks",
+    "Integrate testing with CI/CD pipelines",
+    "Conduct performance and load testing",
+    "Mentor and guide junior testers",
+    "Collaborate with cross-functional teams"
+  ],
+  "keywords": [
+    "Automation Framework",
+    "CI/CD",
+    "Performance Testing",
+    "Selenium",
+    "Jenkins",
+    "Appium",
+    "Code Review",
+    "Test Data Management"
+  ]
+}

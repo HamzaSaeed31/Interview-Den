@@ -1,0 +1,42 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Motivated Full Stack Developer with a strong foundation in both frontend and backend development. Graduating in May 2024 with a B.Tech. in Computer Science and Engineering from PES University, Bangalo...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Backend Developer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Python",
+    "Java",
+    "Node.js",
+    "Django",
+    "MongoDB",
+    "MySQL"
+  ],
+  "Education": [
+    {
+      "Degree": "B.Tech",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

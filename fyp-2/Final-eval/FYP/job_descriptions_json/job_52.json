@@ -1,0 +1,37 @@
+{
+  "job_title": "Cloud Engineer - Experienced",
+  "role_description": "Cloud Engineer - Experienced position requiring expertise in AWS, Azure DevOps, CI/CD pipelines",
+  "experience_required": {
+    "years_of_experience": "5",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "AWS",
+      "Azure DevOps",
+      "CI/CD pipelines",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Integrate DevOps practices into cloud deployments",
+    "Manage CI/CD pipelines",
+    "Automate provisioning",
+    "Support developers with infrastructure"
+  ],
+  "keywords": [
+    "DevOps",
+    "Cloud Architecture",
+    "AWS",
+    "Azure",
+    "Terraform",
+    "CI/CD",
+    "Automation",
+    "Kubernetes"
+  ]
+}

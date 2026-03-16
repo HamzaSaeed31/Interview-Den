@@ -1,0 +1,43 @@
+{
+  "job_title": "Data Engineer",
+  "role_description": "Data Engineer position requiring expertise in Advanced SQL, Python, R",
+  "experience_required": {
+    "years_of_experience": "7+ years",
+    "level": "Senior-Level"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Advanced SQL",
+      "Python",
+      "R",
+      "Predictive modeling",
+      "Machine learning",
+      "Tableau",
+      "Power BI",
+      "Looker",
+      "ETL pipelines",
+      "BigQuery",
+      "Snowflake",
+      "Redshift",
+      "Hadoop",
+      "Spark",
+      "Kafka"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Lead analytics initiatives",
+    "Design predictive models",
+    "Manage ETL pipelines",
+    "Mentor junior analysts"
+  ],
+  "keywords": [
+    "Data Analytics",
+    "BI",
+    "Senior-Level",
+    "Leadership",
+    "Predictive Analytics",
+    "ETL"
+  ]
+}

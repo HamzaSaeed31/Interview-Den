@@ -1,0 +1,37 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Passionate Mobile App Developer with a focus on delivering intuitive and user-friendly mobile applications. Proficient in Swift and Objective-C for iOS development, and Kotlin and Java for Android dev...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Frontend Developer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "React"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

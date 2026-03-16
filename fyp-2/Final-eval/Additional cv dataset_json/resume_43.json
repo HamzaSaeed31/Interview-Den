@@ -1,0 +1,38 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Experienced Full Stack Developer specializing in designing and implementing end-to-end web solutions. Proficient in frontend technologies such as HTML5, CSS3, JavaScript, and Angular, as well as backe...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Data Scientist",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "R",
+    "SQL"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

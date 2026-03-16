@@ -1,0 +1,32 @@
+{
+  "job_title": "Data Analyst - Experienced",
+  "role_description": "Data Analyst - Experienced position requiring expertise in Python Basics, Windows/Linux Basics, NIST Basics",
+  "experience_required": {
+    "years_of_experience": "0",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python Basics",
+      "Windows/Linux Basics",
+      "NIST Basics",
+      "Snort",
+      "Antivirus"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Help detect malware",
+    "Participate in vulnerability scanning",
+    "Assist with incident triage",
+    "Maintain threat logs"
+  ],
+  "keywords": [
+    "Malware Analysis",
+    "Network Security",
+    "NIST",
+    "Incident Response",
+    "Firewall Configuration"
+  ]
+}

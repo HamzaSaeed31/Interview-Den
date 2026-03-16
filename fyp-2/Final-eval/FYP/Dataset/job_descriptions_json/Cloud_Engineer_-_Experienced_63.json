@@ -1,0 +1,36 @@
+{
+  "job_title": "Cloud Engineer - Experienced",
+  "role_description": "Cloud Engineer - Experienced position requiring expertise in AWS, Azure, Hybrid cloud",
+  "experience_required": {
+    "years_of_experience": "8",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "AWS",
+      "Azure",
+      "Hybrid cloud",
+      "SDN",
+      "Cloud networking",
+      "Terraform",
+      "Python"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Design resilient infrastructure",
+    "Architect hybrid environments",
+    "Manage large-scale cloud networking",
+    "Collaborate with IT security"
+  ],
+  "keywords": [
+    "Cloud Infrastructure",
+    "Hybrid Cloud",
+    "AWS",
+    "Azure",
+    "Terraform",
+    "Networking",
+    "Python"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Passionate Full Stack Developer with a focus on delivering innovative and user-friendly software solutions. Proficient in frontend technologies such as HTML, CSS, and JavaScript, with expertise in fra...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Frontend Developer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Vue.js"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

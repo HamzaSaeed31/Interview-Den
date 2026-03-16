@@ -1,0 +1,50 @@
+{
+  "job_title": "Frontend Developer - Experienced",
+  "role_description": "Frontend Developer - Experienced position requiring expertise in Python advanced, JavaScript advanced, SQL advanced",
+  "experience_required": {
+    "years_of_experience": "3+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python advanced",
+      "JavaScript advanced",
+      "SQL advanced",
+      "Blockchain development",
+      "Smart contracts",
+      "Machine learning predictive analytics",
+      "Cybersecurity expertise",
+      "Financial analysis",
+      "Quantitative modeling",
+      "API architecture",
+      "Microservices design",
+      "Cloud computing (AWS, Azure)",
+      "DevOps in fintech",
+      "Innovation management"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Cross-functional collaboration"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Design and implement fintech solutions",
+    "Develop blockchain-based applications and smart contracts",
+    "Apply machine learning for predictive analytics",
+    "Lead API and microservices architecture",
+    "Ensure cybersecurity, data privacy, and compliance",
+    "Collaborate with cross-functional teams",
+    "Mentor junior engineers"
+  ],
+  "keywords": [
+    "Blockchain Technology",
+    "Smart Contracts",
+    "Machine Learning",
+    "Cybersecurity",
+    "API Architecture",
+    "Cloud Computing",
+    "Financial Analysis",
+    "Regulatory Compliance"
+  ]
+}

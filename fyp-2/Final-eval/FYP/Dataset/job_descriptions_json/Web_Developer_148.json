@@ -1,0 +1,41 @@
+{
+  "job_title": "Web Developer",
+  "role_description": "Web Developer position requiring expertise in HTML5, CSS3, JavaScript",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React basics",
+      "PHP basics",
+      "Node.js basics",
+      "Git",
+      "MongoDB basics",
+      "AJAX",
+      "UI/UX fundamentals"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop and maintain web pages",
+    "Support front-end and back-end integration",
+    "Work with version control systems",
+    "Test and debug simple web components",
+    "Participate in team discussions"
+  ],
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "PHP",
+    "MongoDB",
+    "AJAX"
+  ]
+}

@@ -1,0 +1,8 @@
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama-cpp-python
+gradio==4.44.0
+huggingface-hub==0.25.1
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+python-multipart

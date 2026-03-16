@@ -1,0 +1,23 @@
+{
+  "job_title": "Cloud Engineer",
+  "role_description": "Experienced Cloud Engineer to design and implement cloud-based systems and strategies",
+  "experience_required": {
+    "years_of_experience": "10",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Multi-cloud strategy",
+      "Serverless architecture",
+      "Microservices design",
+      "Terraform",
+      "Python",
+      "Cloud cost optimization"
+    ],
+    "soft_skills": [
+      "Stakeholder management"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

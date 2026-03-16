@@ -1,0 +1,23 @@
+{
+  "job_title": "Cloud Engineer",
+  "role_description": "An experienced Cloud Engineer position, requiring expertise in cloud computing and leadership skills",
+  "experience_required": {
+    "years_of_experience": "7",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "AWS multi-cloud",
+      "Azure networking",
+      "Kubernetes orchestration",
+      "CloudFormation",
+      "Ansible",
+      "DevOps automation"
+    ],
+    "soft_skills": [
+      "Leadership"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

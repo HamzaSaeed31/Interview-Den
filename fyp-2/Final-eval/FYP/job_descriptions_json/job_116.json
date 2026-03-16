@@ -1,0 +1,39 @@
+{
+  "job_title": "Full Stack Developer - Experienced",
+  "role_description": "Full Stack Developer - Experienced position requiring expertise in React/Redux, Angular, Vue.js",
+  "experience_required": {
+    "years_of_experience": "5+ years",
+    "level": "Senior-Level"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "React/Redux",
+      "Angular",
+      "Vue.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Performance optimization",
+      "Unit & E2E testing",
+      "Git",
+      "CI/CD"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Lead frontend development for scalable applications",
+    "Implement advanced React/Redux patterns",
+    "Optimize page speed",
+    "Ensure high-quality testing and code standards",
+    "Mentor junior developers"
+  ],
+  "keywords": [
+    "Frontend",
+    "SPA Development",
+    "Senior",
+    "React",
+    "UI",
+    "Web Applications"
+  ]
+}

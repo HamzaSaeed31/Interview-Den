@@ -1,0 +1,35 @@
+{
+  "job_title": "Software Engineer - Entry Level",
+  "role_description": "Software Engineer - Entry Level position requiring expertise in Rust, Git, IoT Basics",
+  "experience_required": {
+    "years_of_experience": "0-2",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Rust",
+      "Git",
+      "IoT Basics",
+      "Data Structures",
+      "VS Code",
+      "Docker"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop IoT applications with Rust",
+    "Assist in unit testing and debugging",
+    "Collaborate in agile sprints",
+    "Ensure scalability of solutions",
+    "Document development processes"
+  ],
+  "keywords": [
+    "Software Engineer",
+    "Rust",
+    "IoT",
+    "Agile",
+    "Unit Testing",
+    "Scalability"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Passionate Data Scientist with a focus on extracting insights from complex datasets. Proficient in programming languages such as Python and SQL, with expertise in data manipulation and analysis using...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Data Scientist",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Python",
+    "R",
+    "Machine Learning",
+    "Pandas",
+    "SQL"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

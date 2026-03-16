@@ -1,0 +1,32 @@
+{
+  "job_title": "Data Analyst - Fresher",
+  "role_description": "Data Analyst - Fresher position requiring expertise in C++ Basics, Wireshark, Metasploit",
+  "experience_required": {
+    "years_of_experience": "0",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C++ Basics",
+      "Wireshark",
+      "Metasploit",
+      "Linux Security",
+      "Encryption Fundamentals"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Support penetration testing activities",
+    "Learn and apply encryption methods",
+    "Help configure intrusion detection systems",
+    "Work with mentors on incident response"
+  ],
+  "keywords": [
+    "Penetration Testing",
+    "Encryption",
+    "Incident Response",
+    "Network Security",
+    "Malware Analysis"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "job_title": "Data Analyst - Fresher",
+  "role_description": "Not specified",
+  "experience_required": {
+    "years_of_experience": "5",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Threat Hunting",
+      "Splunk",
+      "Compliance",
+      "Risk Management",
+      "Cloud Security"
+    ],
+    "soft_skills": [
+      "Team Leadership"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

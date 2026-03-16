@@ -1,0 +1,30 @@
+{
+  "job_title": "Frontend Developer - Experienced",
+  "role_description": "An experienced frontend developer position requiring advanced skills in various technologies and strong leadership abilities",
+  "experience_required": {
+    "years_of_experience": "4+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Blockchain and DLT",
+      "Smart contract development",
+      "Predictive modeling and automation",
+      "Cybersecurity expertise",
+      "Financial analysis and modeling",
+      "API architecture and microservices",
+      "Cloud platforms (AWS, Azure)",
+      "DevOps in fintech"
+    ],
+    "soft_skills": [
+      "Project leadership",
+      "Stakeholder management",
+      "Innovation management"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

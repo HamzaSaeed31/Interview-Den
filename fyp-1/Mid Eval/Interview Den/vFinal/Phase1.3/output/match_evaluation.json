@@ -1,0 +1,28 @@
+{
+  "match_score": 60,
+  "skill_match_score": 70,
+  "experience_match_score": 50,
+  "comments": [
+    "The candidate has some relevant front-end development experience, but lacks depth in specific technologies required by the job.",
+    "The candidate's projects showcase some UI/UX design skills, but lack concrete evidence of front-end development expertise.",
+    "The candidate is missing some core technical skills, such as Angular, Vue.js, webpack, gulp, grunt, Jest, and Cypress."
+  ],
+  "missing_skills": [
+    "Angular",
+    "Vue.js",
+    "webpack",
+    "gulp",
+    "grunt",
+    "Jest",
+    "Cypress"
+  ],
+  "overqualified_in": [],
+  "pass_fail": {
+    "status": "FAIL",
+    "failed_criteria": [
+      "Overall match score (60) below minimum threshold (70)",
+      "Experience match score (50) below minimum threshold (60)"
+    ],
+    "feedback_message": "Thank you for your interest in this position. After careful review of your application, we've identified some areas for improvement that would strengthen your alignment with this role's requirements. We recommend focusing on developing the following key skills: Angular, Vue.js, webpack, gulp, grunt. Gaining more practical experience in these areas would significantly enhance your profile for similar positions. We appreciate your application and encourage you to continue developing your skills in these areas."
+  }
+}

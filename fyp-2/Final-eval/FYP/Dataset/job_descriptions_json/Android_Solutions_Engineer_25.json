@@ -1,0 +1,38 @@
+{
+  "job_title": "Android Solutions Engineer",
+  "role_description": "Android Solutions Engineer position requiring expertise in Java, Kotlin, Android Studio",
+  "experience_required": {
+    "years_of_experience": "0",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Java",
+      "Kotlin",
+      "Android Studio",
+      "XML",
+      "SQLite",
+      "UI/UX Basics",
+      "Git",
+      "REST APIs"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Build simple Android app screens with proper layout.",
+    "Implement basic app features using Java/Kotlin.",
+    "Follow MVC pattern under guidance.",
+    "Test functionality using unit tests.",
+    "Document code and participate in team reviews."
+  ],
+  "keywords": [
+    "Java",
+    "Kotlin",
+    "Android Studio",
+    "Material Design",
+    "UI/UX Design",
+    "REST API",
+    "SQLite"
+  ]
+}

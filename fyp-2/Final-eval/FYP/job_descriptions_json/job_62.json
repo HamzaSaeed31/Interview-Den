@@ -1,0 +1,32 @@
+{
+  "job_title": "Data Analyst - Experienced",
+  "role_description": "Data Analyst - Experienced position requiring expertise in Python, Linux Commands, Nessus",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Linux Commands",
+      "Nessus",
+      "Network Security Basics",
+      "GDPR Basics"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in vulnerability assessments",
+    "Support SOC monitoring",
+    "Prepare incident response drafts",
+    "Shadow senior analysts"
+  ],
+  "keywords": [
+    "Network Security",
+    "Vulnerability Assessment",
+    "Penetration Testing",
+    "GDPR",
+    "Malware Analysis"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "job_title": "Backend Developer - Entry Level",
+  "role_description": "This is an entry-level position for a backend developer, responsible for developing and maintaining server-side applications",
+  "experience_required": {
+    "years_of_experience": "6",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Node.js",
+      "Python",
+      "Java",
+      "Express.js",
+      "Flask",
+      "Django",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "RESTful API",
+      "Git",
+      "Docker",
+      "CI/CD basics"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

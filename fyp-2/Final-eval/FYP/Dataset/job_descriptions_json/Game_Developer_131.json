@@ -1,0 +1,53 @@
+{
+  "job_title": "Game Developer",
+  "role_description": "Game Developer position requiring expertise in HTML, CSS, JavaScript (ES6+)",
+  "experience_required": {
+    "years_of_experience": "4+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript (ES6+)",
+      "React",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Django",
+      "Flask",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Git",
+      "RESTful API design",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Cloud Platforms",
+      "Agile"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Lead end-to-end web application development",
+    "Architect frontend using React or Vue.js",
+    "Develop backend services with Node.js or Django",
+    "Manage SQL/NoSQL databases",
+    "Optimize performance",
+    "Implement CI/CD pipelines",
+    "Mentor junior developers",
+    "Ensure security best practices"
+  ],
+  "keywords": [
+    "Full Stack Developer",
+    "Experienced",
+    "Mid-Level",
+    "Frontend",
+    "Backend",
+    "Cloud Development",
+    "Agile",
+    "Security"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "job_title": "Ethical Hacker",
+  "role_description": "Ethical Hacker position requiring expertise in SEO and SEM fundamentals, Content creation, Social media marketing basics",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "SEO and SEM fundamentals",
+      "Content creation",
+      "Social media marketing basics",
+      "Email marketing basics",
+      "Google Analytics basics",
+      "CMS tools"
+    ],
+    "soft_skills": [
+      "Creativity",
+      "Team collaboration",
+      "Communication skills",
+      "Adaptability"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Support digital marketing campaigns",
+    "Create content for social media and websites",
+    "Assist with SEO and SEM tasks",
+    "Monitor basic analytics metrics",
+    "Help with email marketing initiatives",
+    "Collaborate with team members"
+  ],
+  "keywords": [
+    "Digital Marketing",
+    "SEO",
+    "SEM",
+    "Content Creation",
+    "Social Media",
+    "Email Marketing",
+    "Analytics",
+    "Teamwork"
+  ]
+}

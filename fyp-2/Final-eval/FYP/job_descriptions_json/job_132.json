@@ -1,0 +1,36 @@
+{
+  "job_title": ".NET Developer",
+  "role_description": ".NET Developer position requiring expertise in C#, ASP.NET Core, WebAPI",
+  "experience_required": {
+    "years_of_experience": "3+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C#",
+      "ASP.NET Core",
+      "WebAPI",
+      "SignalR",
+      "SQL Server",
+      "NoSQL",
+      "Entity Framework"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop RESTful APIs and real-time apps",
+    "Implement SignalR for live communication",
+    "Work with SQL Server and NoSQL databases",
+    "Lead module development",
+    "Ensure application scalability"
+  ],
+  "keywords": [
+    ".NET Core",
+    "C#",
+    "ASP.NET MVC",
+    "WebAPI",
+    "SignalR",
+    "Entity Framework"
+  ]
+}

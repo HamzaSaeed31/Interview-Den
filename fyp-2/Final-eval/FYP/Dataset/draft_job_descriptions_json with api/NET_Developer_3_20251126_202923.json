@@ -1,0 +1,21 @@
+{
+  "job_title": ".NET Developer",
+  "role_description": "A junior position for a .NET developer with basic knowledge of .NET framework and related technologies",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C#",
+      ".NET Framework basics",
+      "ASP.NET MVC",
+      "Entity Framework basics",
+      "SQL Server",
+      "LINQ"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

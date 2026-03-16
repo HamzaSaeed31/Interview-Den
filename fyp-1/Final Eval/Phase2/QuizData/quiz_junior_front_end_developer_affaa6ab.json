@@ -1,0 +1,267 @@
+{
+  "quiz_id": "quiz_junior_front_end_developer_affaa6ab",
+  "job_info": {
+    "job_title": "Junior Front End Developer",
+    "role_description": "Not specified",
+    "experience_required": {
+      "years_of_experience": "Not specified"
+    },
+    "skills_required": {
+      "technical_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Angular",
+        "Vue.js",
+        "webpack",
+        "gulp",
+        "grunt",
+        "Jest",
+        "Cypress"
+      ],
+      "soft_skills": [
+        "Strong attention to detail",
+        "Analytical skills",
+        "Excellent communication skills",
+        "Ability to work independently and collaboratively",
+        "Strong problem-solving skills"
+      ]
+    },
+    "preferred_skills": [],
+    "job_responsibilities": [
+      "Design and develop the user interface of web applications using HTML, CSS, and JavaScript",
+      "Collaborate with the development team to ensure that the user interface meets the specified requirements and quality standards",
+      "Debug and resolve issues in the front-end code, including performance and usability issues",
+      "Participate in code reviews and contribute to the development of new features and functionality",
+      "Develop and maintain reusable UI components and libraries",
+      "Participate in the development and maintenance of the application documentation",
+      "Stay current with industry trends and developments in front-end development"
+    ]
+  },
+  "questions": [
+    {
+      "question": "What is the primary function of the Jest testing framework in front-end development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To bundle and minify code"
+        },
+        {
+          "letter": "B",
+          "text": "To create reusable UI components"
+        },
+        {
+          "letter": "C",
+          "text": "To debug and resolve performance issues"
+        },
+        {
+          "letter": "D",
+          "text": "To write and run unit tests for JavaScript code"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which of the following front-end frameworks is known for its virtual DOM and efficient rendering?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angular"
+        },
+        {
+          "letter": "B",
+          "text": "Vue.js"
+        },
+        {
+          "letter": "C",
+          "text": "React"
+        },
+        {
+          "letter": "D",
+          "text": "Ember.js"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the purpose of using a task runner like gulp or grunt in front-end development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To write and run unit tests for JavaScript code"
+        },
+        {
+          "letter": "B",
+          "text": "To debug and resolve performance issues"
+        },
+        {
+          "letter": "C",
+          "text": "To automate repetitive tasks and workflows"
+        },
+        {
+          "letter": "D",
+          "text": "To create reusable UI components"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the primary difference between CSS and JavaScript in front-end development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CSS is used for styling, while JavaScript is used for layout"
+        },
+        {
+          "letter": "B",
+          "text": "CSS is used for layout, while JavaScript is used for styling"
+        },
+        {
+          "letter": "C",
+          "text": "CSS is used for styling, while JavaScript is used for dynamic behavior"
+        },
+        {
+          "letter": "D",
+          "text": "CSS is used for dynamic behavior, while JavaScript is used for styling"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is a popular end-to-end testing framework for web applications?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jest"
+        },
+        {
+          "letter": "B",
+          "text": "Cypress"
+        },
+        {
+          "letter": "C",
+          "text": "React"
+        },
+        {
+          "letter": "D",
+          "text": "webpack"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the primary function of the webpack module bundler in front-end development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To write and run unit tests for JavaScript code"
+        },
+        {
+          "letter": "B",
+          "text": "To debug and resolve performance issues"
+        },
+        {
+          "letter": "C",
+          "text": "To bundle and minify code for production"
+        },
+        {
+          "letter": "D",
+          "text": "To create reusable UI components"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following front-end frameworks is known for its two-way data binding and dependency injection?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "React"
+        },
+        {
+          "letter": "B",
+          "text": "Vue.js"
+        },
+        {
+          "letter": "C",
+          "text": "Angular"
+        },
+        {
+          "letter": "D",
+          "text": "Ember.js"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the purpose of participating in code reviews in front-end development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To debug and resolve performance issues"
+        },
+        {
+          "letter": "B",
+          "text": "To write and run unit tests for JavaScript code"
+        },
+        {
+          "letter": "C",
+          "text": "To ensure that code meets quality standards and best practices"
+        },
+        {
+          "letter": "D",
+          "text": "To create reusable UI components"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is a benefit of using a virtual DOM in front-end development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Improved performance and efficient rendering"
+        },
+        {
+          "letter": "B",
+          "text": "Reduced code complexity and improved readability"
+        },
+        {
+          "letter": "C",
+          "text": "Increased memory usage and slower rendering"
+        },
+        {
+          "letter": "D",
+          "text": "Decreased code reusability and maintainability"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the primary function of the Cypress testing framework in front-end development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To write and run unit tests for JavaScript code"
+        },
+        {
+          "letter": "B",
+          "text": "To debug and resolve performance issues"
+        },
+        {
+          "letter": "C",
+          "text": "To test and validate user interactions and workflows"
+        },
+        {
+          "letter": "D",
+          "text": "To create reusable UI components"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "metadata": {
+    "question_count": 10
+  }
+}

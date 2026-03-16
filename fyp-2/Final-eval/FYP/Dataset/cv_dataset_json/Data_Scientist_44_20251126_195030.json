@@ -1,0 +1,40 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Dynamic Python Developer with expertise in building robust and scalable software solutions. Proficient in Python programming language and libraries such as Pandas and NumPy for data manipulation and a...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Data Scientist",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Python",
+    "R",
+    "Pandas",
+    "NumPy"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

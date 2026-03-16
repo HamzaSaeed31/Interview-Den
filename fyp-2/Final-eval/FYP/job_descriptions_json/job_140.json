@@ -1,0 +1,35 @@
+{
+  "job_title": "Software Engineer - Entry Level",
+  "role_description": "Software Engineer - Entry Level position requiring expertise in Python, REST APIs, Git",
+  "experience_required": {
+    "years_of_experience": "0-2",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "REST APIs",
+      "Git",
+      "Machine Learning Basics",
+      "Jupyter Notebook",
+      "Azure"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop intelligent applications using Python",
+    "Integrate REST APIs for ML models",
+    "Perform basic testing and debugging",
+    "Collaborate in agile workflows",
+    "Support cloud deployment on Azure"
+  ],
+  "keywords": [
+    "Software Engineer",
+    "Python",
+    "REST APIs",
+    "Machine Learning",
+    "Azure",
+    "Agile"
+  ]
+}

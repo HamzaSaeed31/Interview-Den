@@ -1,0 +1,38 @@
+{
+  "job_title": "Software Developer - Experienced",
+  "role_description": "Software Developer - Experienced position requiring expertise in JavaScript, Vue.js, HTML",
+  "experience_required": {
+    "years_of_experience": "0-2",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "JavaScript",
+      "Vue.js",
+      "HTML",
+      "CSS",
+      "APIs",
+      "Git",
+      "VS Code",
+      "Figma"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop front-end features using Vue.js and JavaScript",
+    "Ensure responsive UI design",
+    "Integrate APIs with senior developersâ€™ guidance",
+    "Perform unit testing and follow agile methodologies",
+    "Collaborate to deliver user-focused applications"
+  ],
+  "keywords": [
+    "Software Engineer",
+    "Vue.js",
+    "JavaScript",
+    "UI/UX",
+    "Responsive Design",
+    "Agile",
+    "API Integration"
+  ]
+}

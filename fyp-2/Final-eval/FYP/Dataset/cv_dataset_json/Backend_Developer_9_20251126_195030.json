@@ -1,0 +1,37 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Enthusiastic Frontend Developer with a strong passion for crafting innovative and user-centric web experiences. With over 4 years of experience, I specialize in HTML, CSS, and JavaScript, with experti...",
+  "Experience": {
+    "Total Years": 4,
+    "Details": [
+      {
+        "Role": "Backend Developer",
+        "Company": "Various",
+        "Duration": "4+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Java"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

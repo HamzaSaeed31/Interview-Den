@@ -1,0 +1,17 @@
+*API Keys*
+*api_keys*
+*.env
+.env*
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+node_modules/
+*.zip
+*.rar
+*.mp4
+.ipynb_checkpoints/
+.next/
+dist/
+build/

@@ -1,0 +1,41 @@
+{
+  "job_title": "Data Science Team Lead",
+  "role_description": "Data Science Team Lead position requiring expertise in Python, Java Basics, SQL",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Java Basics",
+      "SQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Hadoop Basics",
+      "Spark Basics",
+      "ETL Fundamentals",
+      "AWS Basics",
+      "Azure Fundamentals"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in developing basic ETL pipelines",
+    "Support database management tasks",
+    "Work on structured and unstructured data",
+    "Collaborate with senior engineers on big data tools",
+    "Learn and apply cloud platform fundamentals"
+  ],
+  "keywords": [
+    "Python",
+    "SQL",
+    "ETL",
+    "Big Data",
+    "AWS",
+    "Hadoop",
+    "MongoDB",
+    "Data Engineering Fundamentals"
+  ]
+}

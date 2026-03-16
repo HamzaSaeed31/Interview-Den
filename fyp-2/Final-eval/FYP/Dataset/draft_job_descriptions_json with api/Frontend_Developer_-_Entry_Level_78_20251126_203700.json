@@ -1,0 +1,30 @@
+{
+  "job_title": "Frontend Developer - Entry Level",
+  "role_description": "This is an entry-level position for a Frontend Developer, requiring basic knowledge of various technologies and skills to develop and maintain frontend applications.",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python basics",
+      "JavaScript basics",
+      "SQL fundamentals",
+      "Blockchain basics",
+      "Intro to ML",
+      "Data analysis basics",
+      "Cybersecurity fundamentals",
+      "Financial products understanding",
+      "API integration basics",
+      "AWS/Azure basics"
+    ],
+    "soft_skills": [
+      "Problem-solving",
+      "Communication",
+      "Collaboration",
+      "Adaptability"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

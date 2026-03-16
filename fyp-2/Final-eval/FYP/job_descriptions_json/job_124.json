@@ -1,0 +1,37 @@
+{
+  "job_title": ".NET Developer",
+  "role_description": ".NET Developer position requiring expertise in C#, .NET Core, ASP.NET MVC",
+  "experience_required": {
+    "years_of_experience": "5+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C#",
+      ".NET Core",
+      "ASP.NET MVC",
+      "Blazor",
+      "Angular",
+      "SQL Server",
+      "Dapper"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop front-end with Blazor/Angular",
+    "Implement repository pattern with Dapper",
+    "Optimize SQL Server queries",
+    "Enhance UI/UX for applications",
+    "Mentor junior team members"
+  ],
+  "keywords": [
+    ".NET Core",
+    "C#",
+    "ASP.NET MVC",
+    "Blazor",
+    "Angular",
+    "SQL Server",
+    "Dapper"
+  ]
+}

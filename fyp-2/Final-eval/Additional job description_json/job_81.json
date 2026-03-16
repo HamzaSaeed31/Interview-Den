@@ -1,0 +1,38 @@
+{
+  "job_title": "Data Scientist - Entry Level",
+  "role_description": "Data Scientist - Entry Level position requiring expertise in Python, Scala Basics, MySQL",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Scala Basics",
+      "MySQL",
+      "MongoDB",
+      "Airflow Basics",
+      "Linux",
+      "Spark Fundamentals",
+      "Data Modeling Basics"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in building simple data pipelines",
+    "Support ETL processes",
+    "Perform data cleaning and preprocessing",
+    "Help in maintaining NoSQL and relational databases",
+    "Participate in data modeling exercises"
+  ],
+  "keywords": [
+    "ETL",
+    "Python",
+    "SQL",
+    "Airflow",
+    "Data Cleaning",
+    "MongoDB",
+    "Spark Basics"
+  ]
+}

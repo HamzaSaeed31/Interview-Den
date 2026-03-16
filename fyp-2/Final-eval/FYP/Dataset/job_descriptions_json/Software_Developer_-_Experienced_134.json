@@ -1,0 +1,36 @@
+{
+  "job_title": "Software Developer - Experienced",
+  "role_description": "Software Developer - Experienced position requiring expertise in Java, SQL, Git",
+  "experience_required": {
+    "years_of_experience": "0-2",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Java",
+      "SQL",
+      "Git",
+      "REST APIs",
+      "IntelliJ",
+      "GitHub"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop secure applications using Java and SQL",
+    "Assist in debugging REST APIs",
+    "Collaborate in agile workflows",
+    "Contribute to integration testing",
+    "Document processes for clarity"
+  ],
+  "keywords": [
+    "Software Engineer",
+    "Java",
+    "SQL",
+    "REST API",
+    "Agile",
+    "Integration Testing",
+    "Debugging"
+  ]
+}

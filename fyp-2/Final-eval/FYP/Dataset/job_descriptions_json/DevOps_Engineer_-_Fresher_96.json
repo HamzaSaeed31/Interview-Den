@@ -1,0 +1,34 @@
+{
+  "job_title": "DevOps Engineer - Fresher",
+  "role_description": "DevOps Engineer - Fresher position requiring expertise in Python, SQL, PostgreSQL",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Hadoop Basics",
+      "AWS Cloud Basics"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Support data ingestion processes",
+    "Work on ETL fundamentals",
+    "Assist with cloud storage management",
+    "Help optimize queries under guidance",
+    "Participate in data testing"
+  ],
+  "keywords": [
+    "Python",
+    "SQL",
+    "PostgreSQL",
+    "Hadoop",
+    "AWS"
+  ]
+}

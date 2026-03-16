@@ -1,0 +1,38 @@
+{
+  "job_title": "Data Analyst - Experienced",
+  "role_description": "Data Analyst - Experienced position requiring expertise in JavaScript Basics, Windows Security, ISO 27001 Basics",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "JavaScript Basics",
+      "Windows Security",
+      "ISO 27001 Basics",
+      "Wireshark",
+      "Metasploit",
+      "Cryptography Fundamentals"
+    ],
+    "soft_skills": [
+      "Team Collaboration"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in log monitoring",
+    "Conduct basic malware scans",
+    "Support compliance checks",
+    "Assist in encryption setup",
+    "Help prepare incident reports"
+  ],
+  "keywords": [
+    "Cryptography",
+    "Incident Response",
+    "Firewall Configuration",
+    "Malware Analysis",
+    "SIEM",
+    "Risk Assessment",
+    "ISO 27001"
+  ]
+}

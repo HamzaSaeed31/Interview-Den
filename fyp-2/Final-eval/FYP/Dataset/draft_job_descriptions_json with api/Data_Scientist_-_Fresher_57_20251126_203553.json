@@ -1,0 +1,22 @@
+{
+  "job_title": "Data Scientist - Fresher",
+  "role_description": "A fresher role for a data scientist to work with various technologies and tools",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "SQL",
+      "Python",
+      "Java Basics",
+      "MongoDB",
+      "Hadoop Basics",
+      "Data Structures",
+      "ETL Tools Introduction"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

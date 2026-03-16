@@ -1,0 +1,39 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Skilled Data Scientist specializing in analyzing structured and unstructured data to drive business insights. Proficient in Python, with strong knowledge of libraries such as NumPy, Pandas, and Matplo...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Python Developer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Python",
+    "NumPy",
+    "Pandas"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

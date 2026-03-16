@@ -1,0 +1,39 @@
+{
+  "job_title": "Junior Front End Developer",
+  "role_description": "Not specified",
+  "experience_required": {
+    "years_of_experience": "Not specified"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Angular",
+      "Vue.js",
+      "webpack",
+      "gulp",
+      "grunt",
+      "Jest",
+      "Cypress"
+    ],
+    "soft_skills": [
+      "Strong attention to detail",
+      "Analytical skills",
+      "Excellent communication skills",
+      "Ability to work independently and collaboratively",
+      "Strong problem-solving skills"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Design and develop the user interface of web applications using HTML, CSS, and JavaScript",
+    "Collaborate with the development team to ensure that the user interface meets the specified requirements and quality standards",
+    "Debug and resolve issues in the front-end code, including performance and usability issues",
+    "Participate in code reviews and contribute to the development of new features and functionality",
+    "Develop and maintain reusable UI components and libraries",
+    "Participate in the development and maintenance of the application documentation",
+    "Stay current with industry trends and developments in front-end development"
+  ]
+}

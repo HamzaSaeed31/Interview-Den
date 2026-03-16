@@ -1,0 +1,32 @@
+{
+  "job_title": "Data Analyst - Fresher",
+  "role_description": "Data Analyst - Fresher position requiring expertise in Python, Firewall Basics, GDPR Basics",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Firewall Basics",
+      "GDPR Basics",
+      "Nessus",
+      "Snort"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in security audits",
+    "Help update security tools",
+    "Support SOC team with monitoring",
+    "Participate in vulnerability management"
+  ],
+  "keywords": [
+    "Vulnerability Assessment",
+    "SIEM",
+    "GDPR",
+    "Incident Response",
+    "Firewall Configuration"
+  ]
+}

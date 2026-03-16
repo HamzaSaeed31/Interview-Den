@@ -1,0 +1,20 @@
+{
+  "job_title": "Data Analyst - Fresher",
+  "role_description": "A fresher role for a Data Analyst, requiring basic skills in programming and security",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Firewall Basics",
+      "GDPR Basics",
+      "Nessus",
+      "Snort"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

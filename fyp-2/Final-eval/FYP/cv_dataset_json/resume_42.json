@@ -1,0 +1,38 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Dynamic Full Stack Developer with expertise in building robust and scalable web applications. Proficient in frontend technologies such as HTML5, CSS3, JavaScript, and Vue.js, as well as backend techno...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Data Scientist",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "R",
+    "SQL"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

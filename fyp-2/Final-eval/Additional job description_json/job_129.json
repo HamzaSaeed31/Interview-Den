@@ -1,0 +1,40 @@
+{
+  "job_title": ".NET Developer",
+  "role_description": ".NET Developer position requiring expertise in C#, .NET Core, ASP.NET MVC",
+  "experience_required": {
+    "years_of_experience": "3+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C#",
+      ".NET Core",
+      "ASP.NET MVC",
+      "SQL Server",
+      "Entity Framework",
+      "REST APIs",
+      "Docker",
+      "Azure"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Design and develop advanced .NET applications",
+    "Implement microservices with ASP.NET Core",
+    "Manage SQL Server database performance",
+    "Develop REST APIs",
+    "Deploy applications using Docker",
+    "Integrate with Azure cloud services"
+  ],
+  "keywords": [
+    ".NET Core",
+    "C#",
+    "ASP.NET MVC",
+    "Microservices",
+    "Azure",
+    "Entity Framework",
+    "REST APIs",
+    "Docker"
+  ]
+}

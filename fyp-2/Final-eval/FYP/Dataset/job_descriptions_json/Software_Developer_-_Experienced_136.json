@@ -1,0 +1,36 @@
+{
+  "job_title": "Software Developer - Experienced",
+  "role_description": "Software Developer - Experienced position requiring expertise in Python, Django, SQL",
+  "experience_required": {
+    "years_of_experience": "0-2",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "Git",
+      "PyCharm",
+      "Trello"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop backend services with Python and Django",
+    "Write SQL queries for data management",
+    "Assist in debugging and bug fixing",
+    "Participate in agile sprints and Git workflows",
+    "Document code for scalability"
+  ],
+  "keywords": [
+    "Software Engineer",
+    "Python",
+    "Django",
+    "SQL",
+    "Backend",
+    "Agile",
+    "Debugging"
+  ]
+}

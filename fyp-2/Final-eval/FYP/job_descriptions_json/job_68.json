@@ -1,0 +1,32 @@
+{
+  "job_title": "Data Analyst - Fresher",
+  "role_description": "Data Analyst - Fresher position requiring expertise in LogRhythm, Vulnerability Management, PowerShell",
+  "experience_required": {
+    "years_of_experience": "5",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "LogRhythm",
+      "Vulnerability Management",
+      "PowerShell",
+      "Cloud Security",
+      "Compliance (GDPR, PCI-DSS)"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Conduct advanced threat detection",
+    "Lead vulnerability management programs",
+    "Ensure cloud infrastructure security",
+    "Collaborate with cross-functional teams"
+  ],
+  "keywords": [
+    "Security Auditing",
+    "Compliance",
+    "Cloud Security",
+    "Incident Response",
+    "Vulnerability Assessment"
+  ]
+}

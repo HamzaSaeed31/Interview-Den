@@ -1,0 +1,42 @@
+{
+  "job_title": "Backend Developer - Experienced",
+  "role_description": "Backend Developer - Experienced position requiring expertise in Node.js, Python, Java",
+  "experience_required": {
+    "years_of_experience": "7 year",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Node.js",
+      "Python",
+      "Java",
+      "Express.js",
+      "Django",
+      "Flask",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "RESTful API",
+      "Git",
+      "Agile",
+      "Docker"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Server-side components for web and mobile apps",
+    "Assist in building RESTful APIs",
+    "Optimize database queries",
+    "Collaborate with frontend teams",
+    "Learn cloud deployment and DevOps fundamentals"
+  ],
+  "keywords": [
+    "Backend Developer",
+    "Fresher",
+    "API Development",
+    "Server-Side Development",
+    "Cloud Awareness"
+  ]
+}

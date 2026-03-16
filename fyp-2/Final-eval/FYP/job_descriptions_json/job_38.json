@@ -1,0 +1,51 @@
+{
+  "job_title": "Blockchain Developer",
+  "role_description": "Blockchain Developer position requiring expertise in Java advanced, Python advanced, Solidity advanced",
+  "experience_required": {
+    "years_of_experience": "6+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Java advanced",
+      "Python advanced",
+      "Solidity advanced",
+      "Rust basics",
+      "Ethereum multi-chain",
+      "Hyperledger",
+      "Corda",
+      "Smart contract optimization",
+      "Cryptography expert",
+      "Scalable DApps",
+      "Cross-chain interoperability",
+      "Cloud integration",
+      "Team management",
+      "Innovation"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Stakeholder collaboration"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Architect blockchain systems",
+    "Develop secure and optimized smart contracts",
+    "Build scalable DApps with cross-chain support",
+    "Integrate blockchain with cloud platforms",
+    "Mentor and manage teams",
+    "Coordinate with stakeholders",
+    "Drive innovation"
+  ],
+  "keywords": [
+    "Blockchain Architecture",
+    "Smart Contract Optimization",
+    "Multi-chain",
+    "Cross-chain",
+    "Cryptography",
+    "Consensus Algorithms",
+    "Ethereum",
+    "Hyperledger",
+    "Security Audits"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "job_title": "Full Stack Developer - Entry Level",
+  "role_description": "A full stack developer position requiring a range of technical and leadership skills, including proficiency in programming languages, blockchain development, and machine learning, as well as experience with cloud computing, DevOps, and team leadership.",
+  "experience_required": {
+    "years_of_experience": "6+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Blockchain development",
+      "Smart contracts implementation",
+      "Machine learning and AI analytics",
+      "Cybersecurity and compliance",
+      "API and microservices architecture",
+      "Cloud computing (AWS, Azure)",
+      "DevOps automation"
+    ],
+    "soft_skills": [
+      "Team leadership",
+      "Strategic planning",
+      "Innovation management",
+      "Financial modeling and forecasting"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

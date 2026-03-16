@@ -1,0 +1,42 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Skilled Mobile App Developer with a passion for creating impactful mobile solutions. Proficient in Swift, Objective-C, Java, and Kotlin, with experience in frameworks such as UIKit, Android Jetpack, a...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Mobile App Developer (iOS/Android)",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Swift",
+    "Objective-C",
+    "Kotlin",
+    "Java",
+    "Flutter",
+    "UIKit"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

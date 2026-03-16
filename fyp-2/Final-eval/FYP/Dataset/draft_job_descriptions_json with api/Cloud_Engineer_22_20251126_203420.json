@@ -1,0 +1,22 @@
+{
+  "job_title": "Cloud Engineer",
+  "role_description": "An experienced Cloud Engineer position requiring expertise in cloud platforms, scripting, and security compliance",
+  "experience_required": {
+    "years_of_experience": "3",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "AWS",
+      "Azure",
+      "Kubernetes",
+      "Terraform",
+      "Python scripting",
+      "CI/CD pipelines",
+      "Cloud security compliance"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

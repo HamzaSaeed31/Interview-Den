@@ -1,0 +1,31 @@
+{
+  "job_title": "Fresher ML Engineer",
+  "role_description": "A machine learning engineer role requiring a wide range of technical and leadership skills, despite the title suggesting a fresher position, the experience required is 15+ years",
+  "experience_required": {
+    "years_of_experience": "15+",
+    "level": "Expert"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "C/C++",
+      "JavaScript",
+      "Bash",
+      "PowerShell",
+      "Linux",
+      "Windows OS",
+      "Metasploit",
+      "Burp Suite",
+      "Nmap",
+      "SQLMap",
+      "Wireshark"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Project management",
+      "Analytical skills"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

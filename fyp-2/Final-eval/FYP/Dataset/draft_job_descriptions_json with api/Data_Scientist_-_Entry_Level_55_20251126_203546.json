@@ -1,0 +1,23 @@
+{
+  "job_title": "Data Scientist - Entry Level",
+  "role_description": "An entry-level position for a data scientist to work with various technologies and tools",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Scala Basics",
+      "MySQL",
+      "MongoDB",
+      "Airflow Basics",
+      "Linux",
+      "Spark Fundamentals",
+      "Data Modeling Basics"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

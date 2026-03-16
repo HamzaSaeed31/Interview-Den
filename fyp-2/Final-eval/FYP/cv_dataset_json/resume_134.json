@@ -1,0 +1,42 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Experienced Python Developer with a focus on delivering efficient and reliable software solutions. Proficient in Python, with expertise in libraries such as NumPy, pandas, and TensorFlow for data anal...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Python Developer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Python",
+    "Django",
+    "Flask",
+    "NumPy",
+    "Pandas",
+    "TensorFlow"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

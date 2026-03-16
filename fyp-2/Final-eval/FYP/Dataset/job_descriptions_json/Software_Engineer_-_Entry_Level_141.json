@@ -1,0 +1,36 @@
+{
+  "job_title": "Software Engineer - Entry Level",
+  "role_description": "Software Engineer - Entry Level position requiring expertise in Angular, JavaScript, HTML",
+  "experience_required": {
+    "years_of_experience": "0-2",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Angular",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Responsive Design",
+      "VS Code",
+      "Figma"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop front-end features using Angular and JavaScript",
+    "Ensure responsive design",
+    "Assist in unit testing",
+    "Collaborate with backend teams",
+    "Learn and apply agile methodologies"
+  ],
+  "keywords": [
+    "Software Engineer",
+    "Angular",
+    "JavaScript",
+    "Front-End",
+    "Responsive Design",
+    "Agile"
+  ]
+}

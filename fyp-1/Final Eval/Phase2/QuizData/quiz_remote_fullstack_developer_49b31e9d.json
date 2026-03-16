@@ -1,0 +1,320 @@
+{
+  "quiz_id": "quiz_remote_fullstack_developer_49b31e9d",
+  "job_info": {
+    "job_title": "Remote Fullstack Developer",
+    "role_description": "Develop AI-powered applications for commercial and research-driven projects, working alongside AI specialists to push the boundaries of innovation.",
+    "experience_required": {
+      "years_of_experience": "Not specified"
+    },
+    "skills_required": {
+      "technical_skills": [
+        "Python",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "soft_skills": [
+        "Strong analytical skills",
+        "Ability to troubleshoot complex software issues"
+      ]
+    },
+    "preferred_skills": [],
+    "job_responsibilities": [
+      "Design and develop full-stack applications utilizing Python, JavaScript, and TypeScript.",
+      "Architect scalable and efficient systems to support AI-driven functionalities.",
+      "Work closely with AI researchers and data scientists to integrate machine learning models into applications.",
+      "Debug, document, and enhance software solutions to ensure optimal user experience.",
+      "Collaborate with cross-functional teams to transform business needs into technical solutions."
+    ]
+  },
+  "questions": [
+    {
+      "question": "What is the primary use of Python in full-stack development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Front-end development"
+        },
+        {
+          "letter": "B",
+          "text": "Back-end development"
+        },
+        {
+          "letter": "C",
+          "text": "Database management"
+        },
+        {
+          "letter": "D",
+          "text": "Networking"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following is a superset of JavaScript?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Python"
+        },
+        {
+          "letter": "B",
+          "text": "TypeScript"
+        },
+        {
+          "letter": "C",
+          "text": "Java"
+        },
+        {
+          "letter": "D",
+          "text": "C++"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the purpose of integrating machine learning models into applications?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To improve user interface"
+        },
+        {
+          "letter": "B",
+          "text": "To support AI-driven functionalities"
+        },
+        {
+          "letter": "C",
+          "text": "To reduce development time"
+        },
+        {
+          "letter": "D",
+          "text": "To decrease application size"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the role of a full-stack developer in collaborating with AI researchers?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To design user interfaces"
+        },
+        {
+          "letter": "B",
+          "text": "To integrate machine learning models into applications"
+        },
+        {
+          "letter": "C",
+          "text": "To manage databases"
+        },
+        {
+          "letter": "D",
+          "text": "To test applications"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following skills is required for a remote full-stack developer?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Python or JavaScript"
+        },
+        {
+          "letter": "B",
+          "text": "Python and JavaScript"
+        },
+        {
+          "letter": "C",
+          "text": "Python, JavaScript, and TypeScript"
+        },
+        {
+          "letter": "D",
+          "text": "Java and C++"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the importance of debugging in software development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To reduce development time"
+        },
+        {
+          "letter": "B",
+          "text": "To improve user experience"
+        },
+        {
+          "letter": "C",
+          "text": "To increase application size"
+        },
+        {
+          "letter": "D",
+          "text": "To decrease functionality"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "How do full-stack developers transform business needs into technical solutions?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By working alone"
+        },
+        {
+          "letter": "B",
+          "text": "By collaborating with cross-functional teams"
+        },
+        {
+          "letter": "C",
+          "text": "By using only front-end technologies"
+        },
+        {
+          "letter": "D",
+          "text": "By using only back-end technologies"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the purpose of documenting software solutions?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To reduce development time"
+        },
+        {
+          "letter": "B",
+          "text": "To improve user experience"
+        },
+        {
+          "letter": "C",
+          "text": "To increase application size"
+        },
+        {
+          "letter": "D",
+          "text": "To ensure optimal user experience and maintenance"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which of the following is a key aspect of architecting scalable systems?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducing efficiency"
+        },
+        {
+          "letter": "B",
+          "text": "Increasing complexity"
+        },
+        {
+          "letter": "C",
+          "text": "Supporting AI-driven functionalities"
+        },
+        {
+          "letter": "D",
+          "text": "Decreasing user experience"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the role of a full-stack developer in enhancing software solutions?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To reduce functionality"
+        },
+        {
+          "letter": "B",
+          "text": "To improve user experience"
+        },
+        {
+          "letter": "C",
+          "text": "To increase development time"
+        },
+        {
+          "letter": "D",
+          "text": "To decrease application size"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "How do full-stack developers ensure optimal user experience?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By debugging and documenting software solutions"
+        },
+        {
+          "letter": "B",
+          "text": "By collaborating with cross-functional teams"
+        },
+        {
+          "letter": "C",
+          "text": "By integrating machine learning models into applications"
+        },
+        {
+          "letter": "D",
+          "text": "By using only front-end technologies"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the importance of collaboration between full-stack developers and data scientists?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To reduce development time"
+        },
+        {
+          "letter": "B",
+          "text": "To improve user experience"
+        },
+        {
+          "letter": "C",
+          "text": "To integrate machine learning models into applications"
+        },
+        {
+          "letter": "D",
+          "text": "To decrease functionality"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is a benefit of using TypeScript in full-stack development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Improved performance"
+        },
+        {
+          "letter": "B",
+          "text": "Increased complexity"
+        },
+        {
+          "letter": "C",
+          "text": "Better code completion and type checking"
+        },
+        {
+          "letter": "D",
+          "text": "Reduced scalability"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "metadata": {
+    "question_count": 13
+  }
+}

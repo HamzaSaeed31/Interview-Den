@@ -1,0 +1,23 @@
+{
+  "job_title": "DevOps Engineer - Fresher",
+  "role_description": "A DevOps Engineer role focusing on development and operations, with a requirement for various technical skills",
+  "experience_required": {
+    "years_of_experience": "5+",
+    "level": "Senior"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "Kafka",
+      "Airflow",
+      "GCP BigQuery",
+      "MongoDB",
+      "Data Partitioning"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

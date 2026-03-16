@@ -1,0 +1,43 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Skilled Mobile App Developer specializing in both iOS and Android platforms. Proficient in Swift, Objective-C, Java, and Kotlin, with expertise in frameworks such as UIKit, Android SDK, and React Nati...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Mobile App Developer (iOS/Android)",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Swift",
+    "Objective-C",
+    "Kotlin",
+    "Java",
+    "React Native",
+    "UIKit",
+    "Android SDK"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

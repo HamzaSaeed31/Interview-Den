@@ -1,0 +1,39 @@
+{
+  "job_title": "Android Developer Trainee",
+  "role_description": "Android Developer Trainee position requiring expertise in Kotlin, Java, Android Studio",
+  "experience_required": {
+    "years_of_experience": "0",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Kotlin",
+      "Java",
+      "Android Studio",
+      "XML",
+      "UI/UX Basics",
+      "Git",
+      "SQLite",
+      "REST API"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Support the development of simple Android modules.",
+    "Implement layouts following Material Design.",
+    "Assist in connecting REST APIs for data retrieval.",
+    "Debug basic issues and document code.",
+    "Participate in team discussions and code reviews."
+  ],
+  "keywords": [
+    "Kotlin",
+    "Java",
+    "Android Studio",
+    "Material Design",
+    "UI/UX Design",
+    "Android SDK",
+    "REST API",
+    "SQLite"
+  ]
+}

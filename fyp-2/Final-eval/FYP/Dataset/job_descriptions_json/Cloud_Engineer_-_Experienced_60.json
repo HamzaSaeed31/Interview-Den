@@ -1,0 +1,37 @@
+{
+  "job_title": "Cloud Engineer - Experienced",
+  "role_description": "Cloud Engineer - Experienced position requiring expertise in Multi-cloud strategy, Serverless architecture, Microservices design",
+  "experience_required": {
+    "years_of_experience": "10",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Multi-cloud strategy",
+      "Serverless architecture",
+      "Microservices design",
+      "Terraform",
+      "Python",
+      "Cloud cost optimization",
+      "Stakeholder management"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Drive enterprise cloud strategy",
+    "Design serverless and microservices-based architectures",
+    "Optimize cloud costs",
+    "Lead cross-functional cloud teams"
+  ],
+  "keywords": [
+    "Cloud Strategy",
+    "Serverless",
+    "Microservices",
+    "Terraform",
+    "AWS",
+    "Azure",
+    "Python",
+    "Leadership"
+  ]
+}

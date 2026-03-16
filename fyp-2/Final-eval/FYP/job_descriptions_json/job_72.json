@@ -1,0 +1,46 @@
+{
+  "job_title": "Data Engineer",
+  "role_description": "Data Engineer position requiring expertise in Predictive modeling, Advanced analytics, Machine learning",
+  "experience_required": {
+    "years_of_experience": "6+ years",
+    "level": "Senior-Level"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Predictive modeling",
+      "Advanced analytics",
+      "Machine learning",
+      "SQL",
+      "Python",
+      "R",
+      "SAS",
+      "Tableau",
+      "Power BI",
+      "Looker",
+      "Google Data Studio",
+      "ETL pipelines",
+      "BigQuery",
+      "Snowflake",
+      "Redshift",
+      "Hadoop",
+      "Spark",
+      "Kafka"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Lead business intelligence projects",
+    "Develop predictive models",
+    "Manage ETL processes",
+    "Mentor junior analysts"
+  ],
+  "keywords": [
+    "Data Analytics",
+    "BI",
+    "Senior-Level",
+    "Predictive Modeling",
+    "ETL",
+    "Leadership"
+  ]
+}

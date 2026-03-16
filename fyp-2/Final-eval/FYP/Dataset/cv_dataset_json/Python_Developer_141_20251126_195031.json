@@ -1,0 +1,40 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Innovative Data Scientist with a passion for extracting insights from complex datasets. Proficient in Python, with experience in libraries such as Pandas, Scikit-learn, and TensorFlow for data manipul...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Python Developer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "Python",
+    "Pandas",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

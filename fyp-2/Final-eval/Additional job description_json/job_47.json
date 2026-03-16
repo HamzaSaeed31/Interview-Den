@@ -1,0 +1,32 @@
+{
+  "job_title": "Cloud Engineer - Experienced",
+  "role_description": "Cloud Engineer - Experienced position requiring expertise in AWS basics, Azure basics, Docker",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "AWS basics",
+      "Azure basics",
+      "Docker",
+      "Linux administration",
+      "Cloud database basics"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist with cloud deployments",
+    "Configure test databases in cloud",
+    "Work on container deployments"
+  ],
+  "keywords": [
+    "Cloud Computing",
+    "AWS",
+    "Azure",
+    "Docker",
+    "Cloud Databases",
+    "Virtualization"
+  ]
+}

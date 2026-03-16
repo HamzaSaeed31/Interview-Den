@@ -1,0 +1,37 @@
+{
+  "job_title": ".NET Developer",
+  "role_description": ".NET Developer position requiring expertise in C#, F#, .NET Core",
+  "experience_required": {
+    "years_of_experience": "5+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C#",
+      "F#",
+      ".NET Core",
+      "ASP.NET MVC",
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "Azure"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop microservices architecture",
+    "Work with Docker and Kubernetes for deployment",
+    "Integrate with Azure services",
+    "Lead junior developers",
+    "Optimize application performance"
+  ],
+  "keywords": [
+    ".NET Core",
+    "C#",
+    "Microservices",
+    "Docker",
+    "Kubernetes",
+    "Azure"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "job_title": "AI Engineer - Fresher",
+  "role_description": "AI Engineer - Fresher position requiring expertise in Python, Java, C++",
+  "experience_required": {
+    "years_of_experience": "8 years",
+    "level": "Senior-Level"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "R",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "Generative AI",
+      "LLMs",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Scikit-learn",
+      "Hugging Face",
+      "ONNX",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Hadoop",
+      "Spark",
+      "SHAP",
+      "LIME"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Design and deploy production-grade AI solutions",
+    "Manage AI cloud platforms",
+    "Lead AI engineering teams",
+    "Implement MLOps practices",
+    "Ensure model explainability"
+  ],
+  "keywords": [
+    "AI",
+    "ML",
+    "Senior-Level",
+    "Deep Learning",
+    "NLP",
+    "Cloud",
+    "MLOps"
+  ]
+}

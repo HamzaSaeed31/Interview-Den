@@ -1,0 +1,38 @@
+{
+  "job_title": "Data Scientist - Experienced",
+  "role_description": "Data Scientist - Experienced position requiring expertise in Python, Java, PostgreSQL",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "PostgreSQL",
+      "MongoDB",
+      "AWS S3 Basics",
+      "Azure Basics",
+      "Hadoop Fundamentals"
+    ],
+    "soft_skills": [
+      "Analytical Thinking"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Work with structured query languages",
+    "Support pipeline development",
+    "Assist in cloud data storage integration",
+    "Collaborate with developers on data validation",
+    "Apply problem-solving to debug issues"
+  ],
+  "keywords": [
+    "Python",
+    "SQL",
+    "PostgreSQL",
+    "AWS",
+    "Hadoop",
+    "ETL Fundamentals"
+  ]
+}

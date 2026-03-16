@@ -1,0 +1,39 @@
+{
+  "Name": "Not Specified",
+  "Contact": {
+    "Email": "not_specified@example.com",
+    "Phone": "Not specified",
+    "Location": "Not specified"
+  },
+  "Summary": "Dynamic Frontend Developer with a focus on delivering engaging and interactive user experiences. Proficient in HTML5, CSS3, and JavaScript, with experience in frontend frameworks such as Angular and E...",
+  "Experience": {
+    "Total Years": 2,
+    "Details": [
+      {
+        "Role": "Full Stack Developer",
+        "Company": "Various",
+        "Duration": "2+ years",
+        "Responsibilities": [
+          "Extracted from resume"
+        ]
+      }
+    ]
+  },
+  "Skills": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "Education": [
+    {
+      "Degree": "Not Specified",
+      "Institution": "Not Specified",
+      "Year": "Not Specified"
+    }
+  ],
+  "Projects": [],
+  "Certifications": [],
+  "is_fraudulent": false,
+  "fraud_type": null,
+  "red_flags": []
+}

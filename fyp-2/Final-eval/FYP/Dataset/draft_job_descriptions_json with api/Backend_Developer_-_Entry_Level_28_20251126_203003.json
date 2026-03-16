@@ -1,0 +1,33 @@
+{
+  "job_title": "Backend Developer - Entry Level",
+  "role_description": "A backend developer position requiring a range of technical skills including programming languages, game engines, and expertise in UI/UX and spatial computing.",
+  "experience_required": {
+    "years_of_experience": "15+",
+    "level": "Senior"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C++",
+      "C#",
+      "JavaScript",
+      "Python",
+      "Unity",
+      "Unreal Engine",
+      "ARKit",
+      "ARCore",
+      "Vuforia",
+      "3D modeling and animation",
+      "Spatial computing",
+      "Cross-platform development",
+      "Machine learning"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Project management",
+      "Team collaboration",
+      "UI/UX"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

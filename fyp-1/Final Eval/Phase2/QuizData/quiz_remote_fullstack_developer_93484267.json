@@ -1,0 +1,254 @@
+{
+  "quiz_id": "quiz_remote_fullstack_developer_93484267",
+  "job_info": {
+    "job_title": "Remote Fullstack Developer",
+    "role_description": "Develop AI-powered applications for commercial and research-driven projects, working alongside AI specialists to push the boundaries of innovation.",
+    "experience_required": {
+      "years_of_experience": "Not specified"
+    },
+    "skills_required": {
+      "technical_skills": [
+        "Python",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "soft_skills": [
+        "Strong analytical skills",
+        "Ability to troubleshoot complex software issues"
+      ]
+    },
+    "preferred_skills": [],
+    "job_responsibilities": [
+      "Design and develop full-stack applications utilizing Python, JavaScript, and TypeScript.",
+      "Architect scalable and efficient systems to support AI-driven functionalities.",
+      "Work closely with AI researchers and data scientists to integrate machine learning models into applications.",
+      "Debug, document, and enhance software solutions to ensure optimal user experience.",
+      "Collaborate with cross-functional teams to transform business needs into technical solutions."
+    ]
+  },
+  "questions": [
+    {
+      "question": "What is the primary use of Python in full-stack development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Front-end development"
+        },
+        {
+          "letter": "B",
+          "text": "Back-end development"
+        },
+        {
+          "letter": "C",
+          "text": "Database management"
+        },
+        {
+          "letter": "D",
+          "text": "Networking"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which JavaScript feature allows for asynchronous programming?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Callbacks"
+        },
+        {
+          "letter": "B",
+          "text": "Promises"
+        },
+        {
+          "letter": "C",
+          "text": "Async/Await"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the main purpose of TypeScript?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To add syntax highlighting to JavaScript"
+        },
+        {
+          "letter": "B",
+          "text": "To improve performance of JavaScript applications"
+        },
+        {
+          "letter": "C",
+          "text": "To add optional static typing to JavaScript"
+        },
+        {
+          "letter": "D",
+          "text": "To replace JavaScript with a new language"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the role of a full-stack developer in integrating machine learning models?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To train machine learning models"
+        },
+        {
+          "letter": "B",
+          "text": "To integrate machine learning models into applications"
+        },
+        {
+          "letter": "C",
+          "text": "To collect data for machine learning models"
+        },
+        {
+          "letter": "D",
+          "text": "To deploy machine learning models to production"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "How do you handle errors in a Python application?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Using try-except blocks"
+        },
+        {
+          "letter": "B",
+          "text": "Using if-else statements"
+        },
+        {
+          "letter": "C",
+          "text": "Using switch statements"
+        },
+        {
+          "letter": "D",
+          "text": "Using loops"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the benefit of using scalable systems in full-stack development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Improved performance"
+        },
+        {
+          "letter": "B",
+          "text": "Increased security"
+        },
+        {
+          "letter": "C",
+          "text": "Reduced maintenance costs"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Which of the following is a best practice for debugging JavaScript applications?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Using console logs"
+        },
+        {
+          "letter": "B",
+          "text": "Using debuggers"
+        },
+        {
+          "letter": "C",
+          "text": "Using alerts"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the purpose of collaborating with cross-functional teams in full-stack development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To transform business needs into technical solutions"
+        },
+        {
+          "letter": "B",
+          "text": "To improve communication among team members"
+        },
+        {
+          "letter": "C",
+          "text": "To increase productivity"
+        },
+        {
+          "letter": "D",
+          "text": "To reduce costs"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "How do you optimize the user experience in a full-stack application?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By reducing loading times"
+        },
+        {
+          "letter": "B",
+          "text": "By improving responsiveness"
+        },
+        {
+          "letter": "C",
+          "text": "By enhancing security"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is the role of AI researchers in full-stack development?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To design user interfaces"
+        },
+        {
+          "letter": "B",
+          "text": "To integrate machine learning models into applications"
+        },
+        {
+          "letter": "C",
+          "text": "To provide machine learning models for integration"
+        },
+        {
+          "letter": "D",
+          "text": "To test applications"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "metadata": {
+    "question_count": 10
+  }
+}

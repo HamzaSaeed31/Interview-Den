@@ -1,0 +1,38 @@
+{
+  "job_title": "Android Developer",
+  "role_description": "Android Developer position requiring expertise in Java, Kotlin, Android Studio",
+  "experience_required": {
+    "years_of_experience": "0",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Java",
+      "Kotlin",
+      "Android Studio",
+      "XML",
+      "Git",
+      "REST API",
+      "SQLite",
+      "UI/UX Design"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Develop Android app screens with XML layouts.",
+    "Collaborate with designers to implement UI components.",
+    "Integrate basic REST APIs and handle JSON responses.",
+    "Participate in peer code reviews.",
+    "Document small modules and features for clarity."
+  ],
+  "keywords": [
+    "Java",
+    "Kotlin",
+    "Android Studio",
+    "Material Design",
+    "UI/UX Design",
+    "REST API",
+    "SQLite"
+  ]
+}

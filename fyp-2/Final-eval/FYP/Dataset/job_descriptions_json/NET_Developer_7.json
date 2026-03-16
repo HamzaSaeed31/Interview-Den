@@ -1,0 +1,36 @@
+{
+  "job_title": ".NET Developer",
+  "role_description": ".NET Developer position requiring expertise in C#, ASP.NET Core, SQL Server",
+  "experience_required": {
+    "years_of_experience": "4+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C#",
+      "ASP.NET Core",
+      "SQL Server",
+      "Entity Framework",
+      "Design Patterns",
+      "SOLID Principles",
+      "Azure DevOps"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Architect scalable .NET Core solutions",
+    "Implement design patterns in projects",
+    "Lead database optimization efforts",
+    "Manage CI/CD pipelines with Azure DevOps",
+    "Collaborate with cross-functional teams"
+  ],
+  "keywords": [
+    ".NET Core",
+    "C#",
+    "ASP.NET MVC",
+    "SOLID",
+    "Azure DevOps",
+    "Entity Framework"
+  ]
+}

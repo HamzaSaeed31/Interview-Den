@@ -1,0 +1,38 @@
+{
+  "job_title": "Full Stack Developer - Experienced",
+  "role_description": "Full Stack Developer - Experienced position requiring expertise in Advanced React, Angular, Vue.js",
+  "experience_required": {
+    "years_of_experience": "5+ years",
+    "level": "Senior-Level"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Advanced React",
+      "Angular",
+      "Vue.js",
+      "HTML",
+      "CSS",
+      "JavaScript (ES6+)",
+      "Performance optimization",
+      "Lazy loading",
+      "Testing automation",
+      "Git",
+      "CI/CD"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Architect and implement frontend solutions",
+    "Lead performance optimization and cross-browser testing",
+    "Mentor junior developers"
+  ],
+  "keywords": [
+    "Frontend",
+    "Enterprise Web Applications",
+    "Senior",
+    "React",
+    "UI",
+    "SPA/PWA"
+  ]
+}

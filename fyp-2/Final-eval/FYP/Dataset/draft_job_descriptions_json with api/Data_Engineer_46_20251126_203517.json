@@ -1,0 +1,33 @@
+{
+  "job_title": "Data Engineer",
+  "role_description": "A senior-level position responsible for designing, building, and maintaining large-scale data systems, utilizing various tools and technologies for data analysis and processing",
+  "experience_required": {
+    "years_of_experience": "6+",
+    "level": "Senior"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Predictive modeling",
+      "Advanced analytics",
+      "Machine learning",
+      "SQL",
+      "Python",
+      "R",
+      "SAS",
+      "Tableau",
+      "Power BI",
+      "Looker",
+      "Google Data Studio",
+      "ETL pipelines",
+      "BigQuery",
+      "Snowflake",
+      "Redshift",
+      "Hadoop",
+      "Spark",
+      "Kafka"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

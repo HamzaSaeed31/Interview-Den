@@ -1,0 +1,24 @@
+{
+  "job_title": "Data Scientist",
+  "role_description": "A data scientist role for a fresher with 0-1 years of experience, requiring various technical skills",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "PostgreSQL",
+      "MongoDB",
+      "AWS S3 Basics",
+      "Azure Basics",
+      "Hadoop Fundamentals"
+    ],
+    "soft_skills": [
+      "Analytical Thinking"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

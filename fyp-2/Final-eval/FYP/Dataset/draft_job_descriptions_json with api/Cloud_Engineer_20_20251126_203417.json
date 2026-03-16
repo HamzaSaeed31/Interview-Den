@@ -1,0 +1,20 @@
+{
+  "job_title": "Cloud Engineer",
+  "role_description": "A cloud engineer position for a fresher with basic cloud knowledge and scripting skills",
+  "experience_required": {
+    "years_of_experience": "0",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Cloud storage basics",
+      "IAM fundamentals",
+      "Python scripting",
+      "Bash",
+      "Basic networking"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

@@ -1,0 +1,32 @@
+{
+  "job_title": "Data Analyst - Fresher",
+  "role_description": "Data Analyst - Fresher position requiring expertise in Risk Management, Compliance Auditing, Python",
+  "experience_required": {
+    "years_of_experience": "5",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Risk Management",
+      "Compliance Auditing",
+      "Python",
+      "PowerShell",
+      "Splunk"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Conduct enterprise-wide risk assessments",
+    "Ensure compliance with GDPR and HIPAA",
+    "Automate risk reporting with scripts",
+    "Recommend remediation strategies"
+  ],
+  "keywords": [
+    "Risk Management",
+    "Compliance",
+    "Security Auditing",
+    "Incident Response",
+    "Vulnerability Assessment"
+  ]
+}

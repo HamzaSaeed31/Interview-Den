@@ -1,0 +1,90 @@
+{
+  "Name": "ASAD ULLAH SHAH",
+  "Contact": {
+    "Email": "asadullahshah002@gmail.com",
+    "Number": "+92 335 5222247"
+  },
+  "Experience": {
+    "Total Years": 1,
+    "Experiences": [
+      {
+        "Title": "FULL STACK WEB DEVELOPER",
+        "Company": "Blunder Bot Technologies",
+        "Duration": "October 2023 - Present",
+        "Description": "Executed a cutting-edge, futuristic UI/UX design for a weather application, showcasing exceptional skills and innovative approach to UI/UX design."
+      },
+      {
+        "Title": "SENIOR DEVELOPER",
+        "Company": "Roshnify",
+        "Duration": "November 2023- Present",
+        "Description": "Created an aesthetically pleasing and user-friendly static website using Framer (No-Code/Low-Code framework)"
+      }
+    ]
+  },
+  "Education": [
+    {
+      "Degree": "BACHELOR OF SCIENCE IN COMPUTER SCIENCE",
+      "Institution": "NUCES",
+      "Location": "Islamabad, PK",
+      "Duration": "September 2021 - June 2025"
+    }
+  ],
+  "Skills": [
+    "C/C++",
+    "C#",
+    "Python",
+    "javascript",
+    "java",
+    "SQL",
+    "SQL Server",
+    "MySQL",
+    "PostgreSQL",
+    "Figma",
+    "MERN Stack",
+    "ASP.NET",
+    "No-Code/Low-Code",
+    "Framer",
+    "Webflow",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JSONWebToken",
+    "Bcrypt",
+    "HTML5",
+    "CSS",
+    "JQuery",
+    "EJS",
+    "UI/UX Design"
+  ],
+  "Languages": [],
+  "Projects": [
+    {
+      "Title": "BLOGS MARKET",
+      "Description": "A functional blogsite with multiple users who can upload posts, delete posts, search, comment and like each other’s post. Implemented authentication, caching, and routing for users with encryption and decryption."
+    },
+    {
+      "Title": "FAST FUNDRAISER",
+      "Description": "Implemented a fundraiser website on Webflow with CMS handling and minimalist design. Developed pipeline for automation to auto-generate email on signup."
+    },
+    {
+      "Title": "TODO LIST",
+      "Description": "Created a TO DO List app with backend. Routes for infinite amount of custom TO DO"
+    },
+    {
+      "Title": "SIMON SAYS",
+      "Description": "Coded a Simon Says game using event listeners in JQuery to add button inputs, animations, and audio."
+    },
+    {
+      "Title": "GARAGE BAND",
+      "Description": "Utilized event listeners in JQuery to play instruments using both keyboard and mouse input."
+    },
+    {
+      "Title": "UI/UX DESIGN",
+      "Description": "Bus app for client with figma prototyping. Trading App. Parking Site Dashboard."
+    }
+  ],
+  "Certifications": [],
+  "Awards": [],
+  "is_fraudulent": false
+}

@@ -1,0 +1,210 @@
+# Resume Parser and Matcher - Command Reference
+
+This file provides a quick reference for the commands available in the Resume Parser application.
+
+## Basic Commands
+
+The application supports both modern subcommand-based syntax and legacy parameter-based syntax:
+
+### Modern Syntax (Recommended)
+
+1. **Parse a resume:**
+   ```
+   python main.py resume -r path/to/resume.pdf
+   ```
+
+2. **Parse a job description:**
+   ```
+   python main.py job -j path/to/jobdescription.txt
+   ```
+
+3. **Parse both a resume and job description:**
+   ```
+   python main.py both -r path/to/resume.pdf -j path/to/jobdescription.txt
+   ```
+
+4. **Compare a resume with a job description (evaluate match):**
+   ```
+   python main.py match path/to/resume.json path/to/job.json
+   ```
+
+5. **Process everything (parse resume, job description, and evaluate match):**
+   ```
+   python main.py all -r path/to/resume.pdf -j path/to/jobdescription.txt
+   ```
+
+### Legacy Syntax
+
+1. **Parse a resume:**
+   ```
+   python main.py -r path/to/resume.pdf -m resume
+   ```
+
+2. **Parse a job description:**
+   ```
+   python main.py -j path/to/jobdescription.txt -m job
+   ```
+
+3. **Parse both a resume and job description:**
+   ```
+   python main.py -r path/to/resume.pdf -j path/to/jobdescription.txt -m both
+   ```
+
+4. **Compare a resume with a job description (evaluate match):**
+   ```
+   python main.py -r path/to/resume.json -j path/to/job.json -m match
+   ```
+
+5. **Process everything (parse resume, job description, and evaluate match):**
+   ```
+   python main.py -r path/to/resume.pdf -j path/to/jobdescription.txt -m all
+   ```
+
+## Additional Parameters
+
+- **-o, --output:** Specify output path for the JSON file
+  ```
+  python main.py resume -r path/to/resume.pdf -o path/to/output.json
+  ```
+
+- **-d, --output-dir:** Specify output directory for JSON files (default: "output")
+  ```
+  python main.py resume -r path/to/resume.pdf -d custom_output_folder
+  ```
+
+## Examples
+
+1. **Parse a resume to default output directory:**
+   ```
+   python main.py resume -r resumes/example_resume.pdf
+   ```
+
+2. **Parse a job description with a custom output path:**
+   ```
+   python main.py job -j jobs/data_scientist.txt -o results/data_scientist_job.json
+   ```
+
+3. **Parse both resume and job description:**
+   ```
+   python main.py both -r resumes/example_resume.pdf -j jobs/data_scientist.txt
+   ```
+
+4. **Evaluate the match between a parsed resume and job description:**
+   ```
+   python main.py match output/example_resume_20231215_120000.json output/data_scientist_20231215_120030.json
+   ```
+
+5. **Process everything in one command:**
+   ```
+   python main.py all -r resumes/example_resume.pdf -j jobs/data_scientist.txt
+   ```
+
+6. **Using legacy syntax to parse a resume:**
+   ```
+   python main.py -r resumes/example_resume.pdf
+   ```
+
+Note: The application uses default paths from config.py if no paths are provided.
+
+## RESUME PARSING COMMANDS
+
+# Subcommand Style
+# Process resume with default files
+python main.py resume
+
+# Process a specific resume file
+python main.py resume -r data/Asad.pdf
+
+# Process a resume with a specific job description
+python main.py resume -r data/Asad.pdf -j data/JobDescription.txt
+
+# Process with custom output directory
+python main.py resume -r data/Asad.pdf -d custom_output
+
+# Process with specific output file path
+python main.py resume -r data/Asad.pdf -o results/processed_resume.json
+
+# Legacy Style
+# Process resume with default files
+python main.py
+
+# Process a specific resume file
+python main.py -r data/Asad.pdf
+
+# Process a resume with a specific job description
+python main.py -r data/Asad.pdf -j data/JobDescription.txt
+
+# Process with custom output directory
+python main.py -r data/Asad.pdf -d custom_output
+
+# Process with specific output file path
+python main.py -r data/Asad.pdf -o results/processed_resume.json
+
+
+## JOB DESCRIPTION PARSING COMMANDS
+
+# Subcommand Style
+# Process job description with default file
+python main.py job
+
+# Process a specific job description file
+python main.py job -j data/JobDescription.txt
+
+# Process with custom output directory
+python main.py job -j data/JobDescription.txt -d custom_output
+
+# Process with specific output file path
+python main.py job -j data/JobDescription.txt -o results/processed_job.json
+
+# Legacy Style
+# Process job description with default file
+python main.py -m job
+
+# Process a specific job description file
+python main.py -m job -j data/JobDescription.txt
+
+# Process with custom output directory
+python main.py -m job -j data/JobDescription.txt -d custom_output
+
+# Process with specific output file path
+python main.py -m job -j data/JobDescription.txt -o results/processed_job.json
+
+
+## PROCESS BOTH RESUME AND JOB DESCRIPTION
+
+# Subcommand Style
+# Process both with default files
+python main.py both
+
+# Process specific resume and job description files
+python main.py both -r data/Asad.pdf -j data/JobDescription.txt
+
+# Process with custom output directory
+python main.py both -r data/Asad.pdf -j data/JobDescription.txt -d custom_output
+
+# Legacy Style
+# Process both with default files
+python main.py -m both
+
+# Process specific resume and job description files
+python main.py -m both -r data/Asad.pdf -j data/JobDescription.txt
+
+# Process with custom output directory
+python main.py -m both -r data/Asad.pdf -j data/JobDescription.txt -d custom_output
+
+
+## EXAMPLES FOR SPECIFIC USE CASES
+
+# Process Asad's resume against the default job description
+python main.py resume -r data/Asad.pdf
+
+# Process Hamza's resume against the default job description
+python main.py resume -r data/Hamza.pdf
+
+# Process Waleed's resume against the default job description
+python main.py resume -r data/Waleed.pdf
+
+# Process all resumes against the job description with the both command
+python main.py both -r data/Asad.pdf -j data/JobDescription.txt
+python main.py both -r data/Hamza.pdf -j data/JobDescription.txt
+python main.py both -r data/Waleed.pdf -j data/JobDescription.txt 

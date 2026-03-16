@@ -1,0 +1,49 @@
+{
+  "job_title": "Blockchain Developer",
+  "role_description": "Blockchain Developer position requiring expertise in Basic data analysis, Excel, SQL",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Basic data analysis",
+      "Excel",
+      "SQL",
+      "Power BI basics",
+      "Requirement documentation",
+      "Agile fundamentals",
+      "Problem-solving",
+      "Research"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Collaboration"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in data collection and basic analysis",
+    "Support creation of dashboards and reports",
+    "Document business requirements",
+    "Participate in Agile team meetings",
+    "Collaborate with team members",
+    "Perform basic scenario modeling",
+    "Support presentations to stakeholders",
+    "Learn BI and analytics tools",
+    "Assist in process improvement initiatives",
+    "Maintain documentation standards"
+  ],
+  "keywords": [
+    "Business Analysis",
+    "Excel",
+    "SQL",
+    "Power BI",
+    "Requirement Gathering",
+    "Agile",
+    "Data Analysis",
+    "Documentation",
+    "Collaboration",
+    "Problem Solving"
+  ]
+}

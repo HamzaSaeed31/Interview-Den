@@ -1,0 +1,36 @@
+{
+  "job_title": "DevOps Engineer - Fresher",
+  "role_description": "DevOps Engineer - Fresher position requiring expertise in Java, Python, SQL",
+  "experience_required": {
+    "years_of_experience": "5+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "Kafka",
+      "Airflow",
+      "GCP BigQuery",
+      "MongoDB",
+      "Data Partitioning"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Build real-time data pipelines",
+    "Integrate structured and unstructured data sources",
+    "Collaborate with data science teams",
+    "Ensure pipeline scalability and reliability",
+    "Automate workflows"
+  ],
+  "keywords": [
+    "SQL",
+    "Python",
+    "Kafka",
+    "Airflow",
+    "BigQuery"
+  ]
+}

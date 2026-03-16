@@ -1,0 +1,45 @@
+{
+  "job_title": "Frontend Developer - Entry Level",
+  "role_description": "Frontend Developer - Entry Level position requiring expertise in Python basics, JavaScript basics, SQL basics",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python basics",
+      "JavaScript basics",
+      "SQL basics",
+      "Blockchain basics",
+      "Introductory machine learning",
+      "Cybersecurity awareness",
+      "Financial knowledge basics",
+      "API integration fundamentals",
+      "AWS/Azure basics",
+      "Problem-solving"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Communication"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in developing fintech applications",
+    "Support blockchain and DLT workflows",
+    "Help with API integration and data analysis",
+    "Collaborate with team members",
+    "Follow basic cybersecurity and compliance guidelines",
+    "Document work and processes"
+  ],
+  "keywords": [
+    "Python",
+    "SQL",
+    "Blockchain",
+    "Machine Learning",
+    "API Integration",
+    "Cybersecurity",
+    "AWS",
+    "Data Analysis"
+  ]
+}

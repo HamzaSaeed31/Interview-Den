@@ -1,0 +1,26 @@
+{
+  "job_title": "Blockchain Developer",
+  "role_description": "A Blockchain Developer position for a fresher with 0-1 years of experience, requiring basic data analysis and development skills",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Basic data analysis",
+      "Excel",
+      "SQL",
+      "Power BI basics",
+      "Requirement documentation",
+      "Agile fundamentals"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Problem-solving",
+      "Collaboration",
+      "Research"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

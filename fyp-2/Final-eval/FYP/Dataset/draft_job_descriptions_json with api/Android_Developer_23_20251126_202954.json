@@ -1,0 +1,23 @@
+{
+  "job_title": "Android Developer",
+  "role_description": "This role involves developing Android applications using various technologies",
+  "experience_required": {
+    "years_of_experience": "0",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Java",
+      "Kotlin",
+      "Android Studio",
+      "XML",
+      "Git",
+      "REST API",
+      "SQLite",
+      "UI/UX Design"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

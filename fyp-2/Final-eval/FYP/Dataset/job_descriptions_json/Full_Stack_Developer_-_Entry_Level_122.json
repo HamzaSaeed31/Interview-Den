@@ -1,0 +1,48 @@
+{
+  "job_title": "Full Stack Developer - Entry Level",
+  "role_description": "Full Stack Developer - Entry Level position requiring expertise in Python advanced, JavaScript advanced, SQL advanced",
+  "experience_required": {
+    "years_of_experience": "6+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python advanced",
+      "JavaScript advanced",
+      "SQL advanced",
+      "Blockchain development",
+      "Smart contracts implementation",
+      "Machine learning and AI analytics",
+      "Cybersecurity and compliance",
+      "Financial modeling and forecasting",
+      "API and microservices architecture",
+      "Cloud computing (AWS, Azure)",
+      "DevOps automation",
+      "Strategic planning",
+      "Innovation management"
+    ],
+    "soft_skills": [
+      "Team leadership"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Design and implement scalable fintech systems",
+    "Develop blockchain-based applications and smart contracts",
+    "Apply AI/ML for financial predictions",
+    "Lead API and microservices architecture",
+    "Ensure compliance, security, and privacy",
+    "Mentor teams and manage projects",
+    "Drive innovation and strategic fintech initiatives"
+  ],
+  "keywords": [
+    "Blockchain Technology",
+    "Smart Contracts",
+    "Machine Learning",
+    "Cybersecurity",
+    "API Architecture",
+    "Cloud Computing",
+    "Financial Analysis",
+    "Regulatory Compliance"
+  ]
+}

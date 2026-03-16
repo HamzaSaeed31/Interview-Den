@@ -1,0 +1,32 @@
+{
+  "job_title": "Frontend Developer",
+  "role_description": "An experienced frontend developer position requiring advanced skills in multiple areas including programming languages, blockchain, machine learning, and cloud computing",
+  "experience_required": {
+    "years_of_experience": "5+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Blockchain development",
+      "Smart contracts",
+      "Machine learning predictive analytics",
+      "Cybersecurity",
+      "Financial analysis",
+      "Quantitative modeling",
+      "API architecture",
+      "Microservices design",
+      "Cloud computing",
+      "DevOps"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Cross-functional collaboration",
+      "Innovation management"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

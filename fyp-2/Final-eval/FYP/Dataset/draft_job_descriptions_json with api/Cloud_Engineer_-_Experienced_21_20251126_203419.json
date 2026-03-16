@@ -1,0 +1,20 @@
+{
+  "job_title": "Cloud Engineer - Experienced",
+  "role_description": "A cloud engineer position for a fresher with basic cloud skills",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "AWS basics",
+      "Azure basics",
+      "Docker",
+      "Linux administration",
+      "Cloud database basics"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

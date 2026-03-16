@@ -1,0 +1,40 @@
+{
+  "job_title": "Data Analyst - Experienced",
+  "role_description": "Data Analyst - Experienced position requiring expertise in Python, C++, Linux Basics",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "C++",
+      "Linux Basics",
+      "Firewall Configuration",
+      "Wireshark",
+      "Nessus",
+      "Snort",
+      "Encryption Basics",
+      "Incident Response"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Assist in monitoring network traffic",
+    "Support in basic vulnerability scanning",
+    "Help configure firewalls and IDS tools",
+    "Document incidents and responses",
+    "Collaborate with team on risk assessments"
+  ],
+  "keywords": [
+    "Network Security",
+    "Penetration Testing",
+    "SIEM",
+    "Incident Response",
+    "Vulnerability Assessment",
+    "Firewalls",
+    "Malware Analysis",
+    "Risk Management"
+  ]
+}

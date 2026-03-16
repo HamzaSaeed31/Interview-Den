@@ -1,0 +1,39 @@
+{
+  "job_title": "AI Engineer - Fresher",
+  "role_description": "Not specified",
+  "experience_required": {
+    "years_of_experience": "10 years",
+    "level": "Senior-Level"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "R",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "LLMs",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Scikit-learn",
+      "Hugging Face",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Spark",
+      "Hadoop",
+      "SHAP",
+      "LIME"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

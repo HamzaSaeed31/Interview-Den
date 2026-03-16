@@ -1,0 +1,49 @@
+{
+  "job_title": "Backend Developer - Experienced",
+  "role_description": "Backend Developer - Experienced position requiring expertise in Python, Node.js, Go",
+  "experience_required": {
+    "years_of_experience": "6 years",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Node.js",
+      "Go",
+      "Django",
+      "Flask",
+      "Express.js",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "RESTful API",
+      "GraphQL",
+      "gRPC",
+      "Git",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "AWS",
+      "Azure",
+      "Cloud",
+      "Microservices"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Design backend services for AI-powered applications",
+    "Build scalable REST and GraphQL APIs",
+    "Manage SQL/NoSQL databases",
+    "Integrate with ML pipelines",
+    "Deploy on cloud platforms"
+  ],
+  "keywords": [
+    "Backend Developer",
+    "Experienced",
+    "AI",
+    "API Development",
+    "Cloud",
+    "Microservices"
+  ]
+}

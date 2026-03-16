@@ -1,0 +1,21 @@
+{
+  "job_title": "Data Analyst",
+  "role_description": "A mid-level data analyst position requiring experience in data analysis",
+  "experience_required": {
+    "years_of_experience": "3",
+    "level": "Mid-Level"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "CMS",
+      "AI tools"
+    ],
+    "soft_skills": [
+      "Collaboration",
+      "Creativity",
+      "Storytelling"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

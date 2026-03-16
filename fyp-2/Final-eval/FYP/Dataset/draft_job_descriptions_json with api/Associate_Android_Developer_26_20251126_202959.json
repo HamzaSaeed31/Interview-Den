@@ -1,0 +1,35 @@
+{
+  "job_title": "Associate Android Developer",
+  "role_description": "An experienced Android developer role requiring expertise in various programming languages, 3D graphics, and leadership skills",
+  "experience_required": {
+    "years_of_experience": "7+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C++",
+      "C#",
+      "JavaScript",
+      "Python",
+      "Unity",
+      "Unreal Engine",
+      "ARKit",
+      "ARCore",
+      "Vuforia",
+      "3D graphics",
+      "UI/UX",
+      "Spatial computing",
+      "Gesture/motion tracking",
+      "Hardware integration",
+      "Performance optimization",
+      "Machine learning"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Project management",
+      "Collaboration"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

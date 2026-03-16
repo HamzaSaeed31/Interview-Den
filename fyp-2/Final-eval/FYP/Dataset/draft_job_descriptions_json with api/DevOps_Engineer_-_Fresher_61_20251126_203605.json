@@ -1,0 +1,22 @@
+{
+  "job_title": "DevOps Engineer - Fresher",
+  "role_description": "A DevOps Engineer role for a fresher, requiring skills in programming languages, databases, and cloud platforms",
+  "experience_required": {
+    "years_of_experience": "0-1",
+    "level": "Fresher"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "MongoDB",
+      "Spark",
+      "Azure",
+      "ETL"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

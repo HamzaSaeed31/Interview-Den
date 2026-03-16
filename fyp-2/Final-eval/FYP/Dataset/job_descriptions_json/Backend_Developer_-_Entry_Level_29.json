@@ -1,0 +1,51 @@
+{
+  "job_title": "Backend Developer - Entry Level",
+  "role_description": "Backend Developer - Entry Level position requiring expertise in C++, C# expert, JavaScript advanced, Python basics",
+  "experience_required": {
+    "years_of_experience": "16+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C++, C# expert",
+      "JavaScript advanced",
+      "Python basics",
+      "Unity, Unreal Engine expert",
+      "ARKit, ARCore, Vuforia",
+      "3D modeling/animation expert",
+      "UI/UX expert",
+      "Spatial computing",
+      "Gesture/motion tracking",
+      "Cross-platform development",
+      "Performance optimization",
+      "Machine learning basics",
+      "Project coordination"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Team collaboration"
+    ]
+  },
+  "preferred_skills": [],
+  "job_responsibilities": [
+    "Architect AR/VR development projects",
+    "Develop advanced immersive experiences",
+    "Optimize 3D graphics and performance",
+    "Integrate AR/VR frameworks and hardware",
+    "Mentor and manage teams",
+    "Collaborate with design, product, and engineering teams",
+    "Ensure timely and quality delivery"
+  ],
+  "keywords": [
+    "Unity",
+    "Unreal Engine",
+    "C#",
+    "ARKit",
+    "ARCore",
+    "3D Graphics",
+    "Spatial Computing",
+    "Performance Optimization",
+    "Cross-Platform",
+    "Machine Learning"
+  ]
+}

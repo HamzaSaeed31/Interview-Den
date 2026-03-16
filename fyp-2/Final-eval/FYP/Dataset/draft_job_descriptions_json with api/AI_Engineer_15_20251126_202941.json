@@ -1,0 +1,33 @@
+{
+  "job_title": "AI Engineer",
+  "role_description": "An experienced AI Engineer position requiring various technical skills in programming languages and machine learning frameworks",
+  "experience_required": {
+    "years_of_experience": "3",
+    "level": "Entry-Level"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "R",
+      "Classification",
+      "Regression",
+      "Clustering",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Scikit-learn",
+      "Neural Networks",
+      "OpenCV",
+      "NLTK",
+      "Pandas",
+      "NumPy",
+      "SQL",
+      "MongoDB"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

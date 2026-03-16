@@ -1,0 +1,23 @@
+{
+  "job_title": ".NET Developer",
+  "role_description": "A .NET Developer position requiring experience in developing applications using .NET technologies",
+  "experience_required": {
+    "years_of_experience": "3+",
+    "level": "Experienced"
+  },
+  "skills_required": {
+    "technical_skills": [
+      "C#",
+      ".NET Core",
+      "ASP.NET MVC",
+      "SQL Server",
+      "Entity Framework",
+      "REST APIs",
+      "Docker",
+      "Azure"
+    ],
+    "soft_skills": []
+  },
+  "preferred_skills": [],
+  "job_responsibilities": []
+}

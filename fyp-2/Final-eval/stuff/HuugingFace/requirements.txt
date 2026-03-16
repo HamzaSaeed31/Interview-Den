@@ -1,0 +1,3 @@
+llama-cpp-python==0.2.90
+gradio==4.44.0
+huggingface-hub==0.25.1
