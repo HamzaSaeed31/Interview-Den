@@ -30,8 +30,8 @@ Interview Den is a Final Year Project built at FAST-NUCES that simulates real jo
 ## 🗂️ Structure
 
 ```
-fyp-1/   ← Semester 8: proposal, mid-eval and defense materials
-fyp-2/   ← Semester 9: full implementation
+fyp-1/   ← proposal, mid-eval and defense materials
+fyp-2/   ← full implementation
   ├── FYP_AI_Components-master/   AI/ML backend (Groq, resume matching)
   ├── InterviewDen-main/          Next.js + Supabase web application
   ├── Final-eval/                 Final evaluation submission
